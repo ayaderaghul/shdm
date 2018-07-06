@@ -1,0 +1,4446 @@
+1000
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.3))) . 5)
+(#(struct:player 0 () #hash((0 . 0.94))) . 4)
+(#(struct:player 0 () #hash((0 . 0.27))) . 4)
+(#(struct:player 0 () #hash((0 . 0.01))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.78))) . 3)
+(#(struct:player 0 () #hash((0 . 0.23))) . 3)
+(#(struct:player 0 () #hash((0 . 0.86))) . 3)
+(#(struct:player 0 () #hash((0 . 0.11))) . 3)
+(#(struct:player 0 () #hash((0 . 0.67))) . 2)
+(#(struct:player 0 () #hash((0 . 0.7))) . 2)
+(#(struct:player 0 () #hash((0 . 0.89))) . 2)
+(#(struct:player 0 () #hash((0 . 0.13))) . 2)
+(#(struct:player 0 () #hash((0 . 0.8))) . 2)
+(#(struct:player 0 () #hash((0 . 0.15))) . 2)
+(#(struct:player 0 () #hash((0 . 0.73))) . 2)
+(#(struct:player 0 () #hash((0 . 0.54))) . 2)
+(#(struct:player 0 () #hash((0 . 0.56))) . 2)
+(#(struct:player 0 () #hash((0 . 0.2))) . 2)
+999
+(#(struct:player 0 () #hash((0 . 0.27))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.3))) . 5)
+(#(struct:player 0 () #hash((0 . 0.94))) . 4)
+(#(struct:player 0 () #hash((0 . 0.01))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.67))) . 3)
+(#(struct:player 0 () #hash((0 . 0.89))) . 3)
+(#(struct:player 0 () #hash((0 . 0.2))) . 3)
+(#(struct:player 0 () #hash((0 . 0.23))) . 3)
+(#(struct:player 0 () #hash((0 . 0.86))) . 3)
+(#(struct:player 0 () #hash((0 . 0.11))) . 3)
+(#(struct:player 0 () #hash((0 . 0.16))) . 3)
+(#(struct:player 0 () #hash((0 . 0.7))) . 2)
+(#(struct:player 0 () #hash((0 . 0.49))) . 2)
+(#(struct:player 0 () #hash((0 . 0.13))) . 2)
+(#(struct:player 0 () #hash((0 . 0.15))) . 2)
+(#(struct:player 0 () #hash((0 . 0.54))) . 2)
+(#(struct:player 0 () #hash((0 . 0.78))) . 2)
+(#(struct:player 0 () #hash((0 . 0.03))) . 2)
+998
+(#(struct:player 0 () #hash((0 . 0.94))) . 6)
+(#(struct:player 0 () #hash((0 . 0.27))) . 6)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.3))) . 5)
+(#(struct:player 0 () #hash((0 . 0.5))) . 4)
+(#(struct:player 0 () #hash((0 . 0.16))) . 4)
+(#(struct:player 0 () #hash((0 . 0.67))) . 3)
+(#(struct:player 0 () #hash((0 . 0.89))) . 3)
+(#(struct:player 0 () #hash((0 . 0.13))) . 3)
+(#(struct:player 0 () #hash((0 . 0.2))) . 3)
+(#(struct:player 0 () #hash((0 . 0.86))) . 3)
+(#(struct:player 0 () #hash((0 . 0.01))) . 3)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+(#(struct:player 0 () #hash((0 . 0.7))) . 2)
+(#(struct:player 0 () #hash((0 . 0.49))) . 2)
+(#(struct:player 0 () #hash((0 . 0.15))) . 2)
+(#(struct:player 0 () #hash((0 . 0.54))) . 2)
+(#(struct:player 0 () #hash((0 . 0.78))) . 2)
+(#(struct:player 0 () #hash((0 . 0.23))) . 2)
+(#(struct:player 0 () #hash((0 . 0.03))) . 2)
+997
+(#(struct:player 0 () #hash((0 . 0.94))) . 6)
+(#(struct:player 0 () #hash((0 . 0.27))) . 5)
+(#(struct:player 0 () #hash((0 . 0.3))) . 5)
+(#(struct:player 0 () #hash((0 . 0.16))) . 5)
+(#(struct:player 0 () #hash((0 . 0.67))) . 4)
+(#(struct:player 0 () #hash((0 . 0.89))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.5))) . 4)
+(#(struct:player 0 () #hash((0 . 0.13))) . 3)
+(#(struct:player 0 () #hash((0 . 0.2))) . 3)
+(#(struct:player 0 () #hash((0 . 0.23))) . 3)
+(#(struct:player 0 () #hash((0 . 0.03))) . 3)
+(#(struct:player 0 () #hash((0 . 0.86))) . 3)
+(#(struct:player 0 () #hash((0 . 0.01))) . 3)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+(#(struct:player 0 () #hash((0 . 0.15))) . 2)
+(#(struct:player 0 () #hash((0 . 0.54))) . 2)
+(#(struct:player 0 () #hash((0 . 0.78))) . 2)
+(#(struct:player 0 () #hash((0 . 0.72))) . 2)
+(#(struct:player 0 () #hash((0 . 0.87))) . 2)
+996
+(#(struct:player 0 () #hash((0 . 0.3))) . 7)
+(#(struct:player 0 () #hash((0 . 0.16))) . 7)
+(#(struct:player 0 () #hash((0 . 0.94))) . 6)
+(#(struct:player 0 () #hash((0 . 0.27))) . 5)
+(#(struct:player 0 () #hash((0 . 0.67))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.5))) . 4)
+(#(struct:player 0 () #hash((0 . 0.89))) . 3)
+(#(struct:player 0 () #hash((0 . 0.13))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 3)
+(#(struct:player 0 () #hash((0 . 0.2))) . 3)
+(#(struct:player 0 () #hash((0 . 0.78))) . 3)
+(#(struct:player 0 () #hash((0 . 0.23))) . 3)
+(#(struct:player 0 () #hash((0 . 0.03))) . 3)
+(#(struct:player 0 () #hash((0 . 0.86))) . 3)
+(#(struct:player 0 () #hash((0 . 0.01))) . 3)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+(#(struct:player 0 () #hash((0 . 0.59))) . 2)
+(#(struct:player 0 () #hash((0 . 0.02))) . 2)
+(#(struct:player 0 () #hash((0 . 0.72))) . 2)
+995
+(#(struct:player 0 () #hash((0 . 0.16))) . 7)
+(#(struct:player 0 () #hash((0 . 0.94))) . 6)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.67))) . 5)
+(#(struct:player 0 () #hash((0 . 0.27))) . 4)
+(#(struct:player 0 () #hash((0 . 0.15))) . 4)
+(#(struct:player 0 () #hash((0 . 0.78))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.03))) . 4)
+(#(struct:player 0 () #hash((0 . 0.5))) . 4)
+(#(struct:player 0 () #hash((0 . 0.89))) . 3)
+(#(struct:player 0 () #hash((0 . 0.2))) . 3)
+(#(struct:player 0 () #hash((0 . 0.23))) . 3)
+(#(struct:player 0 () #hash((0 . 0.86))) . 3)
+(#(struct:player 0 () #hash((0 . 0.01))) . 3)
+(#(struct:player 0 () #hash((0 . 0.82))) . 3)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+(#(struct:player 0 () #hash((0 . 0.77))) . 2)
+(#(struct:player 0 () #hash((0 . 0.13))) . 2)
+(#(struct:player 0 () #hash((0 . 0.59))) . 2)
+994
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.3))) . 7)
+(#(struct:player 0 () #hash((0 . 0.67))) . 5)
+(#(struct:player 0 () #hash((0 . 0.5))) . 5)
+(#(struct:player 0 () #hash((0 . 0.94))) . 4)
+(#(struct:player 0 () #hash((0 . 0.27))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.03))) . 4)
+(#(struct:player 0 () #hash((0 . 0.82))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 3)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.2))) . 3)
+(#(struct:player 0 () #hash((0 . 0.78))) . 3)
+(#(struct:player 0 () #hash((0 . 0.86))) . 3)
+(#(struct:player 0 () #hash((0 . 0.77))) . 2)
+(#(struct:player 0 () #hash((0 . 0.89))) . 2)
+(#(struct:player 0 () #hash((0 . 0.13))) . 2)
+(#(struct:player 0 () #hash((0 . 0.37))) . 2)
+993
+(#(struct:player 0 () #hash((0 . 0.3))) . 7)
+(#(struct:player 0 () #hash((0 . 0.16))) . 7)
+(#(struct:player 0 () #hash((0 . 0.67))) . 6)
+(#(struct:player 0 () #hash((0 . 0.5))) . 6)
+(#(struct:player 0 () #hash((0 . 0.94))) . 4)
+(#(struct:player 0 () #hash((0 . 0.27))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.03))) . 4)
+(#(struct:player 0 () #hash((0 . 0.15))) . 3)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.78))) . 3)
+(#(struct:player 0 () #hash((0 . 0.86))) . 3)
+(#(struct:player 0 () #hash((0 . 0.69))) . 3)
+(#(struct:player 0 () #hash((0 . 0.66))) . 3)
+(#(struct:player 0 () #hash((0 . 0.11))) . 3)
+(#(struct:player 0 () #hash((0 . 0.82))) . 3)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+(#(struct:player 0 () #hash((0 . 0.77))) . 2)
+(#(struct:player 0 () #hash((0 . 0.89))) . 2)
+992
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.67))) . 7)
+(#(struct:player 0 () #hash((0 . 0.5))) . 7)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.23))) . 5)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+(#(struct:player 0 () #hash((0 . 0.27))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.94))) . 3)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.78))) . 3)
+(#(struct:player 0 () #hash((0 . 0.03))) . 3)
+(#(struct:player 0 () #hash((0 . 0.86))) . 3)
+(#(struct:player 0 () #hash((0 . 0.69))) . 3)
+(#(struct:player 0 () #hash((0 . 0.66))) . 3)
+(#(struct:player 0 () #hash((0 . 0.11))) . 3)
+(#(struct:player 0 () #hash((0 . 0.82))) . 3)
+(#(struct:player 0 () #hash((0 . 0.77))) . 2)
+(#(struct:player 0 () #hash((0 . 0.89))) . 2)
+(#(struct:player 0 () #hash((0 . 0.13))) . 2)
+991
+(#(struct:player 0 () #hash((0 . 0.67))) . 8)
+(#(struct:player 0 () #hash((0 . 0.35))) . 6)
+(#(struct:player 0 () #hash((0 . 0.5))) . 6)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.16))) . 6)
+(#(struct:player 0 () #hash((0 . 0.23))) . 5)
+(#(struct:player 0 () #hash((0 . 0.27))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.86))) . 4)
+(#(struct:player 0 () #hash((0 . 0.94))) . 3)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.2))) . 3)
+(#(struct:player 0 () #hash((0 . 0.03))) . 3)
+(#(struct:player 0 () #hash((0 . 0.69))) . 3)
+(#(struct:player 0 () #hash((0 . 0.66))) . 3)
+(#(struct:player 0 () #hash((0 . 0.11))) . 3)
+(#(struct:player 0 () #hash((0 . 0.82))) . 3)
+(#(struct:player 0 () #hash((0 . 0.77))) . 2)
+(#(struct:player 0 () #hash((0 . 0.89))) . 2)
+(#(struct:player 0 () #hash((0 . 0.13))) . 2)
+990
+(#(struct:player 0 () #hash((0 . 0.67))) . 7)
+(#(struct:player 0 () #hash((0 . 0.16))) . 7)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.5))) . 5)
+(#(struct:player 0 () #hash((0 . 0.94))) . 4)
+(#(struct:player 0 () #hash((0 . 0.27))) . 4)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.86))) . 4)
+(#(struct:player 0 () #hash((0 . 0.56))) . 3)
+(#(struct:player 0 () #hash((0 . 0.2))) . 3)
+(#(struct:player 0 () #hash((0 . 0.03))) . 3)
+(#(struct:player 0 () #hash((0 . 0.37))) . 3)
+(#(struct:player 0 () #hash((0 . 0.69))) . 3)
+(#(struct:player 0 () #hash((0 . 0.66))) . 3)
+(#(struct:player 0 () #hash((0 . 0.82))) . 3)
+(#(struct:player 0 () #hash((0 . 0.77))) . 2)
+(#(struct:player 0 () #hash((0 . 0.89))) . 2)
+(#(struct:player 0 () #hash((0 . 0.13))) . 2)
+989
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.67))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.5))) . 5)
+(#(struct:player 0 () #hash((0 . 0.3))) . 5)
+(#(struct:player 0 () #hash((0 . 0.27))) . 4)
+(#(struct:player 0 () #hash((0 . 0.2))) . 4)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.86))) . 4)
+(#(struct:player 0 () #hash((0 . 0.94))) . 3)
+(#(struct:player 0 () #hash((0 . 0.89))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 3)
+(#(struct:player 0 () #hash((0 . 0.56))) . 3)
+(#(struct:player 0 () #hash((0 . 0.03))) . 3)
+(#(struct:player 0 () #hash((0 . 0.37))) . 3)
+(#(struct:player 0 () #hash((0 . 0.11))) . 3)
+(#(struct:player 0 () #hash((0 . 0.82))) . 3)
+(#(struct:player 0 () #hash((0 . 0.77))) . 2)
+(#(struct:player 0 () #hash((0 . 0.13))) . 2)
+988
+(#(struct:player 0 () #hash((0 . 0.67))) . 7)
+(#(struct:player 0 () #hash((0 . 0.5))) . 6)
+(#(struct:player 0 () #hash((0 . 0.16))) . 6)
+(#(struct:player 0 () #hash((0 . 0.03))) . 5)
+(#(struct:player 0 () #hash((0 . 0.86))) . 5)
+(#(struct:player 0 () #hash((0 . 0.66))) . 5)
+(#(struct:player 0 () #hash((0 . 0.3))) . 5)
+(#(struct:player 0 () #hash((0 . 0.27))) . 4)
+(#(struct:player 0 () #hash((0 . 0.56))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.94))) . 3)
+(#(struct:player 0 () #hash((0 . 0.89))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 3)
+(#(struct:player 0 () #hash((0 . 0.2))) . 3)
+(#(struct:player 0 () #hash((0 . 0.37))) . 3)
+(#(struct:player 0 () #hash((0 . 0.77))) . 2)
+(#(struct:player 0 () #hash((0 . 0.13))) . 2)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+987
+(#(struct:player 0 () #hash((0 . 0.5))) . 8)
+(#(struct:player 0 () #hash((0 . 0.66))) . 7)
+(#(struct:player 0 () #hash((0 . 0.16))) . 6)
+(#(struct:player 0 () #hash((0 . 0.67))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.03))) . 5)
+(#(struct:player 0 () #hash((0 . 0.86))) . 5)
+(#(struct:player 0 () #hash((0 . 0.3))) . 5)
+(#(struct:player 0 () #hash((0 . 0.56))) . 4)
+(#(struct:player 0 () #hash((0 . 0.2))) . 4)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.89))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 3)
+(#(struct:player 0 () #hash((0 . 0.37))) . 3)
+(#(struct:player 0 () #hash((0 . 0.94))) . 2)
+(#(struct:player 0 () #hash((0 . 0.27))) . 2)
+(#(struct:player 0 () #hash((0 . 0.77))) . 2)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.54))) . 2)
+986
+(#(struct:player 0 () #hash((0 . 0.5))) . 7)
+(#(struct:player 0 () #hash((0 . 0.16))) . 7)
+(#(struct:player 0 () #hash((0 . 0.56))) . 6)
+(#(struct:player 0 () #hash((0 . 0.03))) . 6)
+(#(struct:player 0 () #hash((0 . 0.66))) . 6)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.67))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.86))) . 5)
+(#(struct:player 0 () #hash((0 . 0.2))) . 4)
+(#(struct:player 0 () #hash((0 . 0.37))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.89))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 3)
+(#(struct:player 0 () #hash((0 . 0.43))) . 3)
+(#(struct:player 0 () #hash((0 . 0.94))) . 2)
+(#(struct:player 0 () #hash((0 . 0.27))) . 2)
+(#(struct:player 0 () #hash((0 . 0.77))) . 2)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+985
+(#(struct:player 0 () #hash((0 . 0.5))) . 8)
+(#(struct:player 0 () #hash((0 . 0.56))) . 7)
+(#(struct:player 0 () #hash((0 . 0.16))) . 7)
+(#(struct:player 0 () #hash((0 . 0.03))) . 6)
+(#(struct:player 0 () #hash((0 . 0.66))) . 6)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.2))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.37))) . 5)
+(#(struct:player 0 () #hash((0 . 0.67))) . 4)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.94))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 3)
+(#(struct:player 0 () #hash((0 . 0.86))) . 3)
+(#(struct:player 0 () #hash((0 . 0.77))) . 2)
+(#(struct:player 0 () #hash((0 . 0.89))) . 2)
+(#(struct:player 0 () #hash((0 . 0.8))) . 2)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+(#(struct:player 0 () #hash((0 . 0.05))) . 2)
+984
+(#(struct:player 0 () #hash((0 . 0.5))) . 8)
+(#(struct:player 0 () #hash((0 . 0.56))) . 7)
+(#(struct:player 0 () #hash((0 . 0.2))) . 6)
+(#(struct:player 0 () #hash((0 . 0.15))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 5)
+(#(struct:player 0 () #hash((0 . 0.03))) . 5)
+(#(struct:player 0 () #hash((0 . 0.37))) . 5)
+(#(struct:player 0 () #hash((0 . 0.66))) . 5)
+(#(struct:player 0 () #hash((0 . 0.3))) . 5)
+(#(struct:player 0 () #hash((0 . 0.16))) . 5)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+(#(struct:player 0 () #hash((0 . 0.67))) . 4)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.94))) . 3)
+(#(struct:player 0 () #hash((0 . 0.77))) . 3)
+(#(struct:player 0 () #hash((0 . 0.86))) . 3)
+(#(struct:player 0 () #hash((0 . 0.89))) . 2)
+(#(struct:player 0 () #hash((0 . 0.8))) . 2)
+(#(struct:player 0 () #hash((0 . 0.43))) . 2)
+983
+(#(struct:player 0 () #hash((0 . 0.5))) . 9)
+(#(struct:player 0 () #hash((0 . 0.56))) . 7)
+(#(struct:player 0 () #hash((0 . 0.2))) . 7)
+(#(struct:player 0 () #hash((0 . 0.15))) . 6)
+(#(struct:player 0 () #hash((0 . 0.23))) . 6)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 5)
+(#(struct:player 0 () #hash((0 . 0.37))) . 5)
+(#(struct:player 0 () #hash((0 . 0.66))) . 5)
+(#(struct:player 0 () #hash((0 . 0.16))) . 5)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+(#(struct:player 0 () #hash((0 . 0.03))) . 4)
+(#(struct:player 0 () #hash((0 . 0.77))) . 3)
+(#(struct:player 0 () #hash((0 . 0.86))) . 3)
+(#(struct:player 0 () #hash((0 . 0.67))) . 2)
+(#(struct:player 0 () #hash((0 . 0.94))) . 2)
+(#(struct:player 0 () #hash((0 . 0.8))) . 2)
+(#(struct:player 0 () #hash((0 . 0.11))) . 2)
+(#(struct:player 0 () #hash((0 . 0.95))) . 2)
+982
+(#(struct:player 0 () #hash((0 . 0.5))) . 10)
+(#(struct:player 0 () #hash((0 . 0.2))) . 8)
+(#(struct:player 0 () #hash((0 . 0.3))) . 8)
+(#(struct:player 0 () #hash((0 . 0.15))) . 6)
+(#(struct:player 0 () #hash((0 . 0.23))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+(#(struct:player 0 () #hash((0 . 0.56))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 5)
+(#(struct:player 0 () #hash((0 . 0.37))) . 5)
+(#(struct:player 0 () #hash((0 . 0.16))) . 5)
+(#(struct:player 0 () #hash((0 . 0.03))) . 4)
+(#(struct:player 0 () #hash((0 . 0.66))) . 4)
+(#(struct:player 0 () #hash((0 . 0.86))) . 3)
+(#(struct:player 0 () #hash((0 . 0.11))) . 3)
+(#(struct:player 0 () #hash((0 . 0.94))) . 2)
+(#(struct:player 0 () #hash((0 . 0.77))) . 2)
+(#(struct:player 0 () #hash((0 . 0.8))) . 2)
+(#(struct:player 0 () #hash((0 . 0.67))) . 1)
+(#(struct:player 0 () #hash((0 . 0.89))) . 1)
+981
+(#(struct:player 0 () #hash((0 . 0.5))) . 9)
+(#(struct:player 0 () #hash((0 . 0.2))) . 8)
+(#(struct:player 0 () #hash((0 . 0.3))) . 7)
+(#(struct:player 0 () #hash((0 . 0.56))) . 6)
+(#(struct:player 0 () #hash((0 . 0.23))) . 6)
+(#(struct:player 0 () #hash((0 . 0.37))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+(#(struct:player 0 () #hash((0 . 0.15))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 5)
+(#(struct:player 0 () #hash((0 . 0.16))) . 5)
+(#(struct:player 0 () #hash((0 . 0.03))) . 4)
+(#(struct:player 0 () #hash((0 . 0.66))) . 4)
+(#(struct:player 0 () #hash((0 . 0.72))) . 3)
+(#(struct:player 0 () #hash((0 . 0.86))) . 3)
+(#(struct:player 0 () #hash((0 . 0.67))) . 2)
+(#(struct:player 0 () #hash((0 . 0.94))) . 2)
+(#(struct:player 0 () #hash((0 . 0.77))) . 2)
+(#(struct:player 0 () #hash((0 . 0.8))) . 2)
+(#(struct:player 0 () #hash((0 . 0.89))) . 1)
+980
+(#(struct:player 0 () #hash((0 . 0.5))) . 12)
+(#(struct:player 0 () #hash((0 . 0.2))) . 7)
+(#(struct:player 0 () #hash((0 . 0.23))) . 7)
+(#(struct:player 0 () #hash((0 . 0.15))) . 6)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+(#(struct:player 0 () #hash((0 . 0.56))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 5)
+(#(struct:player 0 () #hash((0 . 0.03))) . 5)
+(#(struct:player 0 () #hash((0 . 0.37))) . 5)
+(#(struct:player 0 () #hash((0 . 0.66))) . 4)
+(#(struct:player 0 () #hash((0 . 0.72))) . 3)
+(#(struct:player 0 () #hash((0 . 0.86))) . 3)
+(#(struct:player 0 () #hash((0 . 0.16))) . 3)
+(#(struct:player 0 () #hash((0 . 0.67))) . 2)
+(#(struct:player 0 () #hash((0 . 0.94))) . 2)
+(#(struct:player 0 () #hash((0 . 0.77))) . 2)
+(#(struct:player 0 () #hash((0 . 0.8))) . 2)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+979
+(#(struct:player 0 () #hash((0 . 0.5))) . 14)
+(#(struct:player 0 () #hash((0 . 0.2))) . 8)
+(#(struct:player 0 () #hash((0 . 0.15))) . 7)
+(#(struct:player 0 () #hash((0 . 0.23))) . 7)
+(#(struct:player 0 () #hash((0 . 0.03))) . 7)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+(#(struct:player 0 () #hash((0 . 0.56))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.37))) . 5)
+(#(struct:player 0 () #hash((0 . 0.66))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.16))) . 3)
+(#(struct:player 0 () #hash((0 . 0.67))) . 2)
+(#(struct:player 0 () #hash((0 . 0.89))) . 2)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.43))) . 2)
+(#(struct:player 0 () #hash((0 . 0.94))) . 1)
+(#(struct:player 0 () #hash((0 . 0.77))) . 1)
+(#(struct:player 0 () #hash((0 . 0.8))) . 1)
+978
+(#(struct:player 0 () #hash((0 . 0.5))) . 15)
+(#(struct:player 0 () #hash((0 . 0.15))) . 7)
+(#(struct:player 0 () #hash((0 . 0.2))) . 7)
+(#(struct:player 0 () #hash((0 . 0.23))) . 7)
+(#(struct:player 0 () #hash((0 . 0.03))) . 7)
+(#(struct:player 0 () #hash((0 . 0.4))) . 6)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+(#(struct:player 0 () #hash((0 . 0.56))) . 5)
+(#(struct:player 0 () #hash((0 . 0.66))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.37))) . 4)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.16))) . 3)
+(#(struct:player 0 () #hash((0 . 0.89))) . 2)
+(#(struct:player 0 () #hash((0 . 0.43))) . 2)
+(#(struct:player 0 () #hash((0 . 0.67))) . 1)
+(#(struct:player 0 () #hash((0 . 0.94))) . 1)
+(#(struct:player 0 () #hash((0 . 0.77))) . 1)
+(#(struct:player 0 () #hash((0 . 0.8))) . 1)
+977
+(#(struct:player 0 () #hash((0 . 0.5))) . 14)
+(#(struct:player 0 () #hash((0 . 0.2))) . 8)
+(#(struct:player 0 () #hash((0 . 0.03))) . 8)
+(#(struct:player 0 () #hash((0 . 0.15))) . 7)
+(#(struct:player 0 () #hash((0 . 0.4))) . 7)
+(#(struct:player 0 () #hash((0 . 0.3))) . 7)
+(#(struct:player 0 () #hash((0 . 0.35))) . 6)
+(#(struct:player 0 () #hash((0 . 0.23))) . 6)
+(#(struct:player 0 () #hash((0 . 0.66))) . 6)
+(#(struct:player 0 () #hash((0 . 0.56))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.37))) . 4)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.89))) . 2)
+(#(struct:player 0 () #hash((0 . 0.43))) . 2)
+(#(struct:player 0 () #hash((0 . 0.16))) . 2)
+(#(struct:player 0 () #hash((0 . 0.67))) . 1)
+(#(struct:player 0 () #hash((0 . 0.77))) . 1)
+(#(struct:player 0 () #hash((0 . 0.8))) . 1)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+976
+(#(struct:player 0 () #hash((0 . 0.5))) . 14)
+(#(struct:player 0 () #hash((0 . 0.2))) . 9)
+(#(struct:player 0 () #hash((0 . 0.03))) . 8)
+(#(struct:player 0 () #hash((0 . 0.3))) . 8)
+(#(struct:player 0 () #hash((0 . 0.35))) . 6)
+(#(struct:player 0 () #hash((0 . 0.15))) . 6)
+(#(struct:player 0 () #hash((0 . 0.56))) . 6)
+(#(struct:player 0 () #hash((0 . 0.4))) . 6)
+(#(struct:player 0 () #hash((0 . 0.23))) . 6)
+(#(struct:player 0 () #hash((0 . 0.66))) . 6)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.37))) . 3)
+(#(struct:player 0 () #hash((0 . 0.16))) . 3)
+(#(struct:player 0 () #hash((0 . 0.89))) . 2)
+(#(struct:player 0 () #hash((0 . 0.72))) . 2)
+(#(struct:player 0 () #hash((0 . 0.43))) . 2)
+(#(struct:player 0 () #hash((0 . 0.67))) . 1)
+(#(struct:player 0 () #hash((0 . 0.77))) . 1)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+975
+(#(struct:player 0 () #hash((0 . 0.5))) . 13)
+(#(struct:player 0 () #hash((0 . 0.3))) . 10)
+(#(struct:player 0 () #hash((0 . 0.2))) . 9)
+(#(struct:player 0 () #hash((0 . 0.35))) . 7)
+(#(struct:player 0 () #hash((0 . 0.56))) . 7)
+(#(struct:player 0 () #hash((0 . 0.03))) . 7)
+(#(struct:player 0 () #hash((0 . 0.66))) . 7)
+(#(struct:player 0 () #hash((0 . 0.4))) . 6)
+(#(struct:player 0 () #hash((0 . 0.23))) . 6)
+(#(struct:player 0 () #hash((0 . 0.15))) . 5)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+(#(struct:player 0 () #hash((0 . 0.16))) . 3)
+(#(struct:player 0 () #hash((0 . 0.89))) . 2)
+(#(struct:player 0 () #hash((0 . 0.37))) . 2)
+(#(struct:player 0 () #hash((0 . 0.72))) . 2)
+(#(struct:player 0 () #hash((0 . 0.43))) . 2)
+(#(struct:player 0 () #hash((0 . 0.67))) . 1)
+(#(struct:player 0 () #hash((0 . 0.77))) . 1)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+974
+(#(struct:player 0 () #hash((0 . 0.5))) . 11)
+(#(struct:player 0 () #hash((0 . 0.3))) . 11)
+(#(struct:player 0 () #hash((0 . 0.56))) . 9)
+(#(struct:player 0 () #hash((0 . 0.23))) . 9)
+(#(struct:player 0 () #hash((0 . 0.35))) . 8)
+(#(struct:player 0 () #hash((0 . 0.2))) . 8)
+(#(struct:player 0 () #hash((0 . 0.03))) . 7)
+(#(struct:player 0 () #hash((0 . 0.66))) . 6)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.15))) . 4)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+(#(struct:player 0 () #hash((0 . 0.16))) . 3)
+(#(struct:player 0 () #hash((0 . 0.89))) . 2)
+(#(struct:player 0 () #hash((0 . 0.37))) . 2)
+(#(struct:player 0 () #hash((0 . 0.43))) . 2)
+(#(struct:player 0 () #hash((0 . 0.67))) . 1)
+(#(struct:player 0 () #hash((0 . 0.77))) . 1)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.78))) . 1)
+973
+(#(struct:player 0 () #hash((0 . 0.5))) . 11)
+(#(struct:player 0 () #hash((0 . 0.3))) . 11)
+(#(struct:player 0 () #hash((0 . 0.35))) . 9)
+(#(struct:player 0 () #hash((0 . 0.23))) . 9)
+(#(struct:player 0 () #hash((0 . 0.56))) . 8)
+(#(struct:player 0 () #hash((0 . 0.2))) . 8)
+(#(struct:player 0 () #hash((0 . 0.03))) . 7)
+(#(struct:player 0 () #hash((0 . 0.66))) . 7)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.15))) . 4)
+(#(struct:player 0 () #hash((0 . 0.41))) . 4)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+(#(struct:player 0 () #hash((0 . 0.16))) . 3)
+(#(struct:player 0 () #hash((0 . 0.37))) . 2)
+(#(struct:player 0 () #hash((0 . 0.05))) . 2)
+(#(struct:player 0 () #hash((0 . 0.43))) . 2)
+(#(struct:player 0 () #hash((0 . 0.77))) . 1)
+(#(struct:player 0 () #hash((0 . 0.89))) . 1)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.78))) . 1)
+972
+(#(struct:player 0 () #hash((0 . 0.3))) . 12)
+(#(struct:player 0 () #hash((0 . 0.23))) . 10)
+(#(struct:player 0 () #hash((0 . 0.5))) . 10)
+(#(struct:player 0 () #hash((0 . 0.35))) . 8)
+(#(struct:player 0 () #hash((0 . 0.56))) . 8)
+(#(struct:player 0 () #hash((0 . 0.2))) . 7)
+(#(struct:player 0 () #hash((0 . 0.66))) . 7)
+(#(struct:player 0 () #hash((0 . 0.03))) . 6)
+(#(struct:player 0 () #hash((0 . 0.41))) . 5)
+(#(struct:player 0 () #hash((0 . 0.15))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.16))) . 4)
+(#(struct:player 0 () #hash((0 . 0.78))) . 3)
+(#(struct:player 0 () #hash((0 . 0.37))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+(#(struct:player 0 () #hash((0 . 0.05))) . 2)
+(#(struct:player 0 () #hash((0 . 0.77))) . 1)
+(#(struct:player 0 () #hash((0 . 0.89))) . 1)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.43))) . 1)
+971
+(#(struct:player 0 () #hash((0 . 0.3))) . 13)
+(#(struct:player 0 () #hash((0 . 0.5))) . 12)
+(#(struct:player 0 () #hash((0 . 0.23))) . 10)
+(#(struct:player 0 () #hash((0 . 0.2))) . 9)
+(#(struct:player 0 () #hash((0 . 0.56))) . 7)
+(#(struct:player 0 () #hash((0 . 0.66))) . 7)
+(#(struct:player 0 () #hash((0 . 0.41))) . 6)
+(#(struct:player 0 () #hash((0 . 0.03))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+(#(struct:player 0 () #hash((0 . 0.15))) . 3)
+(#(struct:player 0 () #hash((0 . 0.78))) . 3)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+(#(struct:player 0 () #hash((0 . 0.37))) . 3)
+(#(struct:player 0 () #hash((0 . 0.16))) . 3)
+(#(struct:player 0 () #hash((0 . 0.05))) . 2)
+(#(struct:player 0 () #hash((0 . 0.77))) . 1)
+(#(struct:player 0 () #hash((0 . 0.89))) . 1)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.43))) . 1)
+970
+(#(struct:player 0 () #hash((0 . 0.3))) . 14)
+(#(struct:player 0 () #hash((0 . 0.5))) . 12)
+(#(struct:player 0 () #hash((0 . 0.23))) . 11)
+(#(struct:player 0 () #hash((0 . 0.2))) . 8)
+(#(struct:player 0 () #hash((0 . 0.03))) . 8)
+(#(struct:player 0 () #hash((0 . 0.66))) . 7)
+(#(struct:player 0 () #hash((0 . 0.41))) . 6)
+(#(struct:player 0 () #hash((0 . 0.56))) . 6)
+(#(struct:player 0 () #hash((0 . 0.78))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.05))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 2)
+(#(struct:player 0 () #hash((0 . 0.37))) . 2)
+(#(struct:player 0 () #hash((0 . 0.16))) . 2)
+(#(struct:player 0 () #hash((0 . 0.77))) . 1)
+(#(struct:player 0 () #hash((0 . 0.89))) . 1)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.95))) . 1)
+969
+(#(struct:player 0 () #hash((0 . 0.23))) . 14)
+(#(struct:player 0 () #hash((0 . 0.5))) . 12)
+(#(struct:player 0 () #hash((0 . 0.3))) . 12)
+(#(struct:player 0 () #hash((0 . 0.03))) . 9)
+(#(struct:player 0 () #hash((0 . 0.2))) . 8)
+(#(struct:player 0 () #hash((0 . 0.41))) . 6)
+(#(struct:player 0 () #hash((0 . 0.56))) . 6)
+(#(struct:player 0 () #hash((0 . 0.66))) . 6)
+(#(struct:player 0 () #hash((0 . 0.78))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.05))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 2)
+(#(struct:player 0 () #hash((0 . 0.37))) . 2)
+(#(struct:player 0 () #hash((0 . 0.16))) . 2)
+(#(struct:player 0 () #hash((0 . 0.89))) . 1)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.95))) . 1)
+968
+(#(struct:player 0 () #hash((0 . 0.3))) . 16)
+(#(struct:player 0 () #hash((0 . 0.23))) . 12)
+(#(struct:player 0 () #hash((0 . 0.5))) . 12)
+(#(struct:player 0 () #hash((0 . 0.41))) . 8)
+(#(struct:player 0 () #hash((0 . 0.03))) . 8)
+(#(struct:player 0 () #hash((0 . 0.2))) . 7)
+(#(struct:player 0 () #hash((0 . 0.56))) . 6)
+(#(struct:player 0 () #hash((0 . 0.78))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.66))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.05))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 2)
+(#(struct:player 0 () #hash((0 . 0.16))) . 2)
+(#(struct:player 0 () #hash((0 . 0.95))) . 2)
+(#(struct:player 0 () #hash((0 . 0.89))) . 1)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.37))) . 1)
+967
+(#(struct:player 0 () #hash((0 . 0.3))) . 16)
+(#(struct:player 0 () #hash((0 . 0.5))) . 11)
+(#(struct:player 0 () #hash((0 . 0.23))) . 10)
+(#(struct:player 0 () #hash((0 . 0.03))) . 9)
+(#(struct:player 0 () #hash((0 . 0.41))) . 8)
+(#(struct:player 0 () #hash((0 . 0.2))) . 8)
+(#(struct:player 0 () #hash((0 . 0.56))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.05))) . 4)
+(#(struct:player 0 () #hash((0 . 0.66))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 3)
+(#(struct:player 0 () #hash((0 . 0.78))) . 3)
+(#(struct:player 0 () #hash((0 . 0.16))) . 2)
+(#(struct:player 0 () #hash((0 . 0.95))) . 2)
+(#(struct:player 0 () #hash((0 . 0.89))) . 1)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.37))) . 1)
+966
+(#(struct:player 0 () #hash((0 . 0.3))) . 17)
+(#(struct:player 0 () #hash((0 . 0.5))) . 12)
+(#(struct:player 0 () #hash((0 . 0.23))) . 10)
+(#(struct:player 0 () #hash((0 . 0.2))) . 9)
+(#(struct:player 0 () #hash((0 . 0.41))) . 8)
+(#(struct:player 0 () #hash((0 . 0.03))) . 7)
+(#(struct:player 0 () #hash((0 . 0.4))) . 6)
+(#(struct:player 0 () #hash((0 . 0.05))) . 5)
+(#(struct:player 0 () #hash((0 . 0.56))) . 4)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.66))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.78))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 2)
+(#(struct:player 0 () #hash((0 . 0.95))) . 2)
+(#(struct:player 0 () #hash((0 . 0.89))) . 1)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.37))) . 1)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+965
+(#(struct:player 0 () #hash((0 . 0.3))) . 17)
+(#(struct:player 0 () #hash((0 . 0.5))) . 10)
+(#(struct:player 0 () #hash((0 . 0.41))) . 8)
+(#(struct:player 0 () #hash((0 . 0.2))) . 8)
+(#(struct:player 0 () #hash((0 . 0.4))) . 8)
+(#(struct:player 0 () #hash((0 . 0.23))) . 8)
+(#(struct:player 0 () #hash((0 . 0.03))) . 8)
+(#(struct:player 0 () #hash((0 . 0.56))) . 6)
+(#(struct:player 0 () #hash((0 . 0.05))) . 5)
+(#(struct:player 0 () #hash((0 . 0.66))) . 5)
+(#(struct:player 0 () #hash((0 . 0.95))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+(#(struct:player 0 () #hash((0 . 0.78))) . 2)
+(#(struct:player 0 () #hash((0 . 0.89))) . 1)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.15))) . 1)
+(#(struct:player 0 () #hash((0 . 0.37))) . 1)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+964
+(#(struct:player 0 () #hash((0 . 0.3))) . 16)
+(#(struct:player 0 () #hash((0 . 0.5))) . 10)
+(#(struct:player 0 () #hash((0 . 0.4))) . 9)
+(#(struct:player 0 () #hash((0 . 0.2))) . 8)
+(#(struct:player 0 () #hash((0 . 0.41))) . 7)
+(#(struct:player 0 () #hash((0 . 0.23))) . 7)
+(#(struct:player 0 () #hash((0 . 0.03))) . 7)
+(#(struct:player 0 () #hash((0 . 0.56))) . 6)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+(#(struct:player 0 () #hash((0 . 0.66))) . 5)
+(#(struct:player 0 () #hash((0 . 0.95))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.78))) . 2)
+(#(struct:player 0 () #hash((0 . 0.89))) . 1)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.15))) . 1)
+(#(struct:player 0 () #hash((0 . 0.37))) . 1)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+963
+(#(struct:player 0 () #hash((0 . 0.3))) . 14)
+(#(struct:player 0 () #hash((0 . 0.2))) . 10)
+(#(struct:player 0 () #hash((0 . 0.4))) . 9)
+(#(struct:player 0 () #hash((0 . 0.5))) . 9)
+(#(struct:player 0 () #hash((0 . 0.41))) . 8)
+(#(struct:player 0 () #hash((0 . 0.23))) . 8)
+(#(struct:player 0 () #hash((0 . 0.05))) . 7)
+(#(struct:player 0 () #hash((0 . 0.56))) . 6)
+(#(struct:player 0 () #hash((0 . 0.03))) . 6)
+(#(struct:player 0 () #hash((0 . 0.66))) . 6)
+(#(struct:player 0 () #hash((0 . 0.95))) . 5)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+(#(struct:player 0 () #hash((0 . 0.78))) . 2)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.15))) . 1)
+(#(struct:player 0 () #hash((0 . 0.37))) . 1)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+962
+(#(struct:player 0 () #hash((0 . 0.3))) . 15)
+(#(struct:player 0 () #hash((0 . 0.2))) . 10)
+(#(struct:player 0 () #hash((0 . 0.41))) . 9)
+(#(struct:player 0 () #hash((0 . 0.5))) . 9)
+(#(struct:player 0 () #hash((0 . 0.05))) . 8)
+(#(struct:player 0 () #hash((0 . 0.4))) . 7)
+(#(struct:player 0 () #hash((0 . 0.23))) . 7)
+(#(struct:player 0 () #hash((0 . 0.03))) . 7)
+(#(struct:player 0 () #hash((0 . 0.66))) . 6)
+(#(struct:player 0 () #hash((0 . 0.95))) . 6)
+(#(struct:player 0 () #hash((0 . 0.56))) . 5)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.15))) . 1)
+(#(struct:player 0 () #hash((0 . 0.78))) . 1)
+(#(struct:player 0 () #hash((0 . 0.37))) . 1)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+961
+(#(struct:player 0 () #hash((0 . 0.3))) . 17)
+(#(struct:player 0 () #hash((0 . 0.2))) . 11)
+(#(struct:player 0 () #hash((0 . 0.5))) . 9)
+(#(struct:player 0 () #hash((0 . 0.41))) . 8)
+(#(struct:player 0 () #hash((0 . 0.23))) . 8)
+(#(struct:player 0 () #hash((0 . 0.4))) . 7)
+(#(struct:player 0 () #hash((0 . 0.03))) . 7)
+(#(struct:player 0 () #hash((0 . 0.66))) . 7)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+(#(struct:player 0 () #hash((0 . 0.95))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+(#(struct:player 0 () #hash((0 . 0.56))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.15))) . 1)
+(#(struct:player 0 () #hash((0 . 0.78))) . 1)
+(#(struct:player 0 () #hash((0 . 0.37))) . 1)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+960
+(#(struct:player 0 () #hash((0 . 0.3))) . 16)
+(#(struct:player 0 () #hash((0 . 0.2))) . 12)
+(#(struct:player 0 () #hash((0 . 0.41))) . 10)
+(#(struct:player 0 () #hash((0 . 0.23))) . 8)
+(#(struct:player 0 () #hash((0 . 0.66))) . 8)
+(#(struct:player 0 () #hash((0 . 0.4))) . 7)
+(#(struct:player 0 () #hash((0 . 0.5))) . 7)
+(#(struct:player 0 () #hash((0 . 0.03))) . 6)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+(#(struct:player 0 () #hash((0 . 0.95))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.56))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.15))) . 1)
+(#(struct:player 0 () #hash((0 . 0.78))) . 1)
+(#(struct:player 0 () #hash((0 . 0.37))) . 1)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+959
+(#(struct:player 0 () #hash((0 . 0.3))) . 15)
+(#(struct:player 0 () #hash((0 . 0.2))) . 13)
+(#(struct:player 0 () #hash((0 . 0.41))) . 9)
+(#(struct:player 0 () #hash((0 . 0.66))) . 9)
+(#(struct:player 0 () #hash((0 . 0.4))) . 7)
+(#(struct:player 0 () #hash((0 . 0.23))) . 7)
+(#(struct:player 0 () #hash((0 . 0.95))) . 7)
+(#(struct:player 0 () #hash((0 . 0.03))) . 6)
+(#(struct:player 0 () #hash((0 . 0.5))) . 6)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+(#(struct:player 0 () #hash((0 . 0.56))) . 4)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.15))) . 1)
+(#(struct:player 0 () #hash((0 . 0.78))) . 1)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+958
+(#(struct:player 0 () #hash((0 . 0.3))) . 17)
+(#(struct:player 0 () #hash((0 . 0.2))) . 13)
+(#(struct:player 0 () #hash((0 . 0.66))) . 9)
+(#(struct:player 0 () #hash((0 . 0.95))) . 8)
+(#(struct:player 0 () #hash((0 . 0.4))) . 7)
+(#(struct:player 0 () #hash((0 . 0.23))) . 7)
+(#(struct:player 0 () #hash((0 . 0.41))) . 6)
+(#(struct:player 0 () #hash((0 . 0.5))) . 6)
+(#(struct:player 0 () #hash((0 . 0.56))) . 5)
+(#(struct:player 0 () #hash((0 . 0.03))) . 5)
+(#(struct:player 0 () #hash((0 . 0.05))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.59))) . 2)
+(#(struct:player 0 () #hash((0 . 0.15))) . 1)
+(#(struct:player 0 () #hash((0 . 0.78))) . 1)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+957
+(#(struct:player 0 () #hash((0 . 0.3))) . 18)
+(#(struct:player 0 () #hash((0 . 0.2))) . 12)
+(#(struct:player 0 () #hash((0 . 0.66))) . 9)
+(#(struct:player 0 () #hash((0 . 0.95))) . 9)
+(#(struct:player 0 () #hash((0 . 0.41))) . 8)
+(#(struct:player 0 () #hash((0 . 0.4))) . 7)
+(#(struct:player 0 () #hash((0 . 0.56))) . 6)
+(#(struct:player 0 () #hash((0 . 0.23))) . 5)
+(#(struct:player 0 () #hash((0 . 0.05))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.03))) . 4)
+(#(struct:player 0 () #hash((0 . 0.5))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.59))) . 2)
+(#(struct:player 0 () #hash((0 . 0.15))) . 2)
+(#(struct:player 0 () #hash((0 . 0.78))) . 1)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+956
+(#(struct:player 0 () #hash((0 . 0.3))) . 16)
+(#(struct:player 0 () #hash((0 . 0.2))) . 11)
+(#(struct:player 0 () #hash((0 . 0.4))) . 9)
+(#(struct:player 0 () #hash((0 . 0.95))) . 9)
+(#(struct:player 0 () #hash((0 . 0.41))) . 7)
+(#(struct:player 0 () #hash((0 . 0.66))) . 7)
+(#(struct:player 0 () #hash((0 . 0.56))) . 6)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+(#(struct:player 0 () #hash((0 . 0.23))) . 5)
+(#(struct:player 0 () #hash((0 . 0.03))) . 5)
+(#(struct:player 0 () #hash((0 . 0.5))) . 5)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.59))) . 2)
+(#(struct:player 0 () #hash((0 . 0.15))) . 2)
+(#(struct:player 0 () #hash((0 . 0.78))) . 1)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+955
+(#(struct:player 0 () #hash((0 . 0.3))) . 15)
+(#(struct:player 0 () #hash((0 . 0.2))) . 11)
+(#(struct:player 0 () #hash((0 . 0.4))) . 11)
+(#(struct:player 0 () #hash((0 . 0.41))) . 8)
+(#(struct:player 0 () #hash((0 . 0.03))) . 8)
+(#(struct:player 0 () #hash((0 . 0.95))) . 8)
+(#(struct:player 0 () #hash((0 . 0.66))) . 7)
+(#(struct:player 0 () #hash((0 . 0.56))) . 6)
+(#(struct:player 0 () #hash((0 . 0.23))) . 6)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.05))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.5))) . 3)
+(#(struct:player 0 () #hash((0 . 0.59))) . 2)
+(#(struct:player 0 () #hash((0 . 0.15))) . 2)
+(#(struct:player 0 () #hash((0 . 0.78))) . 1)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+954
+(#(struct:player 0 () #hash((0 . 0.3))) . 15)
+(#(struct:player 0 () #hash((0 . 0.2))) . 12)
+(#(struct:player 0 () #hash((0 . 0.4))) . 11)
+(#(struct:player 0 () #hash((0 . 0.03))) . 9)
+(#(struct:player 0 () #hash((0 . 0.41))) . 7)
+(#(struct:player 0 () #hash((0 . 0.23))) . 7)
+(#(struct:player 0 () #hash((0 . 0.95))) . 7)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+(#(struct:player 0 () #hash((0 . 0.56))) . 5)
+(#(struct:player 0 () #hash((0 . 0.66))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.5))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 2)
+(#(struct:player 0 () #hash((0 . 0.16))) . 2)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.78))) . 1)
+953
+(#(struct:player 0 () #hash((0 . 0.3))) . 17)
+(#(struct:player 0 () #hash((0 . 0.2))) . 13)
+(#(struct:player 0 () #hash((0 . 0.03))) . 11)
+(#(struct:player 0 () #hash((0 . 0.4))) . 10)
+(#(struct:player 0 () #hash((0 . 0.41))) . 8)
+(#(struct:player 0 () #hash((0 . 0.23))) . 6)
+(#(struct:player 0 () #hash((0 . 0.66))) . 6)
+(#(struct:player 0 () #hash((0 . 0.95))) . 6)
+(#(struct:player 0 () #hash((0 . 0.56))) . 5)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+(#(struct:player 0 () #hash((0 . 0.5))) . 3)
+(#(struct:player 0 () #hash((0 . 0.05))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 2)
+(#(struct:player 0 () #hash((0 . 0.16))) . 2)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.78))) . 1)
+952
+(#(struct:player 0 () #hash((0 . 0.3))) . 17)
+(#(struct:player 0 () #hash((0 . 0.2))) . 12)
+(#(struct:player 0 () #hash((0 . 0.03))) . 11)
+(#(struct:player 0 () #hash((0 . 0.4))) . 10)
+(#(struct:player 0 () #hash((0 . 0.23))) . 8)
+(#(struct:player 0 () #hash((0 . 0.41))) . 7)
+(#(struct:player 0 () #hash((0 . 0.95))) . 7)
+(#(struct:player 0 () #hash((0 . 0.66))) . 5)
+(#(struct:player 0 () #hash((0 . 0.56))) . 4)
+(#(struct:player 0 () #hash((0 . 0.05))) . 4)
+(#(struct:player 0 () #hash((0 . 0.15))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+(#(struct:player 0 () #hash((0 . 0.5))) . 3)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+(#(struct:player 0 () #hash((0 . 0.16))) . 2)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.78))) . 1)
+951
+(#(struct:player 0 () #hash((0 . 0.3))) . 16)
+(#(struct:player 0 () #hash((0 . 0.2))) . 14)
+(#(struct:player 0 () #hash((0 . 0.23))) . 11)
+(#(struct:player 0 () #hash((0 . 0.4))) . 9)
+(#(struct:player 0 () #hash((0 . 0.41))) . 8)
+(#(struct:player 0 () #hash((0 . 0.03))) . 8)
+(#(struct:player 0 () #hash((0 . 0.95))) . 8)
+(#(struct:player 0 () #hash((0 . 0.66))) . 5)
+(#(struct:player 0 () #hash((0 . 0.05))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.56))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 2)
+(#(struct:player 0 () #hash((0 . 0.5))) . 2)
+(#(struct:player 0 () #hash((0 . 0.16))) . 2)
+(#(struct:player 0 () #hash((0 . 0.59))) . 1)
+(#(struct:player 0 () #hash((0 . 0.78))) . 1)
+950
+(#(struct:player 0 () #hash((0 . 0.3))) . 17)
+(#(struct:player 0 () #hash((0 . 0.2))) . 14)
+(#(struct:player 0 () #hash((0 . 0.23))) . 13)
+(#(struct:player 0 () #hash((0 . 0.4))) . 9)
+(#(struct:player 0 () #hash((0 . 0.95))) . 8)
+(#(struct:player 0 () #hash((0 . 0.41))) . 7)
+(#(struct:player 0 () #hash((0 . 0.03))) . 7)
+(#(struct:player 0 () #hash((0 . 0.05))) . 5)
+(#(struct:player 0 () #hash((0 . 0.66))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+(#(struct:player 0 () #hash((0 . 0.5))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 2)
+(#(struct:player 0 () #hash((0 . 0.56))) . 2)
+(#(struct:player 0 () #hash((0 . 0.16))) . 2)
+(#(struct:player 0 () #hash((0 . 0.78))) . 1)
+949
+(#(struct:player 0 () #hash((0 . 0.3))) . 18)
+(#(struct:player 0 () #hash((0 . 0.2))) . 13)
+(#(struct:player 0 () #hash((0 . 0.23))) . 13)
+(#(struct:player 0 () #hash((0 . 0.95))) . 10)
+(#(struct:player 0 () #hash((0 . 0.41))) . 8)
+(#(struct:player 0 () #hash((0 . 0.03))) . 7)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.05))) . 5)
+(#(struct:player 0 () #hash((0 . 0.66))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+(#(struct:player 0 () #hash((0 . 0.5))) . 3)
+(#(struct:player 0 () #hash((0 . 0.16))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 2)
+(#(struct:player 0 () #hash((0 . 0.56))) . 2)
+(#(struct:player 0 () #hash((0 . 0.78))) . 1)
+948
+(#(struct:player 0 () #hash((0 . 0.3))) . 18)
+(#(struct:player 0 () #hash((0 . 0.2))) . 15)
+(#(struct:player 0 () #hash((0 . 0.23))) . 11)
+(#(struct:player 0 () #hash((0 . 0.41))) . 9)
+(#(struct:player 0 () #hash((0 . 0.03))) . 9)
+(#(struct:player 0 () #hash((0 . 0.95))) . 9)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.05))) . 5)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+(#(struct:player 0 () #hash((0 . 0.66))) . 4)
+(#(struct:player 0 () #hash((0 . 0.16))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 2)
+(#(struct:player 0 () #hash((0 . 0.56))) . 2)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+(#(struct:player 0 () #hash((0 . 0.5))) . 2)
+947
+(#(struct:player 0 () #hash((0 . 0.2))) . 17)
+(#(struct:player 0 () #hash((0 . 0.3))) . 16)
+(#(struct:player 0 () #hash((0 . 0.23))) . 12)
+(#(struct:player 0 () #hash((0 . 0.03))) . 10)
+(#(struct:player 0 () #hash((0 . 0.95))) . 9)
+(#(struct:player 0 () #hash((0 . 0.41))) . 7)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 5)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+(#(struct:player 0 () #hash((0 . 0.05))) . 4)
+(#(struct:player 0 () #hash((0 . 0.66))) . 4)
+(#(struct:player 0 () #hash((0 . 0.16))) . 3)
+(#(struct:player 0 () #hash((0 . 0.5))) . 2)
+(#(struct:player 0 () #hash((0 . 0.15))) . 1)
+(#(struct:player 0 () #hash((0 . 0.56))) . 1)
+946
+(#(struct:player 0 () #hash((0 . 0.2))) . 16)
+(#(struct:player 0 () #hash((0 . 0.3))) . 15)
+(#(struct:player 0 () #hash((0 . 0.23))) . 13)
+(#(struct:player 0 () #hash((0 . 0.03))) . 9)
+(#(struct:player 0 () #hash((0 . 0.95))) . 9)
+(#(struct:player 0 () #hash((0 . 0.35))) . 6)
+(#(struct:player 0 () #hash((0 . 0.41))) . 6)
+(#(struct:player 0 () #hash((0 . 0.34))) . 6)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.05))) . 4)
+(#(struct:player 0 () #hash((0 . 0.66))) . 4)
+(#(struct:player 0 () #hash((0 . 0.16))) . 3)
+(#(struct:player 0 () #hash((0 . 0.5))) . 2)
+(#(struct:player 0 () #hash((0 . 0.15))) . 1)
+(#(struct:player 0 () #hash((0 . 0.56))) . 1)
+945
+(#(struct:player 0 () #hash((0 . 0.3))) . 16)
+(#(struct:player 0 () #hash((0 . 0.2))) . 14)
+(#(struct:player 0 () #hash((0 . 0.23))) . 12)
+(#(struct:player 0 () #hash((0 . 0.03))) . 11)
+(#(struct:player 0 () #hash((0 . 0.95))) . 10)
+(#(struct:player 0 () #hash((0 . 0.35))) . 7)
+(#(struct:player 0 () #hash((0 . 0.4))) . 6)
+(#(struct:player 0 () #hash((0 . 0.41))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.05))) . 4)
+(#(struct:player 0 () #hash((0 . 0.66))) . 4)
+(#(struct:player 0 () #hash((0 . 0.16))) . 4)
+(#(struct:player 0 () #hash((0 . 0.15))) . 1)
+(#(struct:player 0 () #hash((0 . 0.56))) . 1)
+(#(struct:player 0 () #hash((0 . 0.5))) . 1)
+944
+(#(struct:player 0 () #hash((0 . 0.3))) . 18)
+(#(struct:player 0 () #hash((0 . 0.2))) . 13)
+(#(struct:player 0 () #hash((0 . 0.23))) . 13)
+(#(struct:player 0 () #hash((0 . 0.35))) . 9)
+(#(struct:player 0 () #hash((0 . 0.03))) . 9)
+(#(struct:player 0 () #hash((0 . 0.95))) . 9)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 5)
+(#(struct:player 0 () #hash((0 . 0.66))) . 5)
+(#(struct:player 0 () #hash((0 . 0.05))) . 4)
+(#(struct:player 0 () #hash((0 . 0.16))) . 4)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 1)
+(#(struct:player 0 () #hash((0 . 0.56))) . 1)
+(#(struct:player 0 () #hash((0 . 0.5))) . 1)
+943
+(#(struct:player 0 () #hash((0 . 0.3))) . 15)
+(#(struct:player 0 () #hash((0 . 0.23))) . 13)
+(#(struct:player 0 () #hash((0 . 0.2))) . 12)
+(#(struct:player 0 () #hash((0 . 0.35))) . 10)
+(#(struct:player 0 () #hash((0 . 0.95))) . 10)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.03))) . 7)
+(#(struct:player 0 () #hash((0 . 0.34))) . 6)
+(#(struct:player 0 () #hash((0 . 0.66))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.05))) . 4)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 1)
+(#(struct:player 0 () #hash((0 . 0.56))) . 1)
+(#(struct:player 0 () #hash((0 . 0.5))) . 1)
+942
+(#(struct:player 0 () #hash((0 . 0.3))) . 16)
+(#(struct:player 0 () #hash((0 . 0.35))) . 11)
+(#(struct:player 0 () #hash((0 . 0.2))) . 11)
+(#(struct:player 0 () #hash((0 . 0.95))) . 11)
+(#(struct:player 0 () #hash((0 . 0.23))) . 9)
+(#(struct:player 0 () #hash((0 . 0.16))) . 9)
+(#(struct:player 0 () #hash((0 . 0.41))) . 6)
+(#(struct:player 0 () #hash((0 . 0.34))) . 6)
+(#(struct:player 0 () #hash((0 . 0.66))) . 6)
+(#(struct:player 0 () #hash((0 . 0.03))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.05))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 1)
+(#(struct:player 0 () #hash((0 . 0.56))) . 1)
+(#(struct:player 0 () #hash((0 . 0.5))) . 1)
+941
+(#(struct:player 0 () #hash((0 . 0.3))) . 14)
+(#(struct:player 0 () #hash((0 . 0.95))) . 12)
+(#(struct:player 0 () #hash((0 . 0.2))) . 11)
+(#(struct:player 0 () #hash((0 . 0.35))) . 9)
+(#(struct:player 0 () #hash((0 . 0.41))) . 9)
+(#(struct:player 0 () #hash((0 . 0.23))) . 9)
+(#(struct:player 0 () #hash((0 . 0.16))) . 9)
+(#(struct:player 0 () #hash((0 . 0.03))) . 6)
+(#(struct:player 0 () #hash((0 . 0.66))) . 6)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.05))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 1)
+(#(struct:player 0 () #hash((0 . 0.56))) . 1)
+(#(struct:player 0 () #hash((0 . 0.5))) . 1)
+940
+(#(struct:player 0 () #hash((0 . 0.3))) . 16)
+(#(struct:player 0 () #hash((0 . 0.23))) . 11)
+(#(struct:player 0 () #hash((0 . 0.16))) . 11)
+(#(struct:player 0 () #hash((0 . 0.95))) . 10)
+(#(struct:player 0 () #hash((0 . 0.2))) . 9)
+(#(struct:player 0 () #hash((0 . 0.35))) . 8)
+(#(struct:player 0 () #hash((0 . 0.41))) . 7)
+(#(struct:player 0 () #hash((0 . 0.03))) . 6)
+(#(struct:player 0 () #hash((0 . 0.66))) . 6)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.05))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.15))) . 1)
+(#(struct:player 0 () #hash((0 . 0.5))) . 1)
+939
+(#(struct:player 0 () #hash((0 . 0.3))) . 16)
+(#(struct:player 0 () #hash((0 . 0.23))) . 13)
+(#(struct:player 0 () #hash((0 . 0.2))) . 10)
+(#(struct:player 0 () #hash((0 . 0.16))) . 10)
+(#(struct:player 0 () #hash((0 . 0.95))) . 9)
+(#(struct:player 0 () #hash((0 . 0.35))) . 8)
+(#(struct:player 0 () #hash((0 . 0.66))) . 7)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+(#(struct:player 0 () #hash((0 . 0.41))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.03))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.15))) . 1)
+(#(struct:player 0 () #hash((0 . 0.5))) . 1)
+938
+(#(struct:player 0 () #hash((0 . 0.3))) . 17)
+(#(struct:player 0 () #hash((0 . 0.23))) . 12)
+(#(struct:player 0 () #hash((0 . 0.95))) . 10)
+(#(struct:player 0 () #hash((0 . 0.2))) . 9)
+(#(struct:player 0 () #hash((0 . 0.66))) . 9)
+(#(struct:player 0 () #hash((0 . 0.16))) . 9)
+(#(struct:player 0 () #hash((0 . 0.35))) . 7)
+(#(struct:player 0 () #hash((0 . 0.03))) . 7)
+(#(struct:player 0 () #hash((0 . 0.05))) . 7)
+(#(struct:player 0 () #hash((0 . 0.41))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 1)
+937
+(#(struct:player 0 () #hash((0 . 0.3))) . 16)
+(#(struct:player 0 () #hash((0 . 0.23))) . 12)
+(#(struct:player 0 () #hash((0 . 0.66))) . 10)
+(#(struct:player 0 () #hash((0 . 0.95))) . 10)
+(#(struct:player 0 () #hash((0 . 0.2))) . 9)
+(#(struct:player 0 () #hash((0 . 0.03))) . 9)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.35))) . 7)
+(#(struct:player 0 () #hash((0 . 0.05))) . 7)
+(#(struct:player 0 () #hash((0 . 0.41))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+(#(struct:player 0 () #hash((0 . 0.15))) . 1)
+936
+(#(struct:player 0 () #hash((0 . 0.3))) . 20)
+(#(struct:player 0 () #hash((0 . 0.23))) . 11)
+(#(struct:player 0 () #hash((0 . 0.2))) . 9)
+(#(struct:player 0 () #hash((0 . 0.03))) . 9)
+(#(struct:player 0 () #hash((0 . 0.66))) . 9)
+(#(struct:player 0 () #hash((0 . 0.05))) . 8)
+(#(struct:player 0 () #hash((0 . 0.95))) . 8)
+(#(struct:player 0 () #hash((0 . 0.35))) . 7)
+(#(struct:player 0 () #hash((0 . 0.16))) . 6)
+(#(struct:player 0 () #hash((0 . 0.41))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+935
+(#(struct:player 0 () #hash((0 . 0.3))) . 19)
+(#(struct:player 0 () #hash((0 . 0.23))) . 13)
+(#(struct:player 0 () #hash((0 . 0.03))) . 11)
+(#(struct:player 0 () #hash((0 . 0.2))) . 10)
+(#(struct:player 0 () #hash((0 . 0.95))) . 10)
+(#(struct:player 0 () #hash((0 . 0.66))) . 8)
+(#(struct:player 0 () #hash((0 . 0.35))) . 7)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+(#(struct:player 0 () #hash((0 . 0.16))) . 6)
+(#(struct:player 0 () #hash((0 . 0.41))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+934
+(#(struct:player 0 () #hash((0 . 0.3))) . 18)
+(#(struct:player 0 () #hash((0 . 0.23))) . 14)
+(#(struct:player 0 () #hash((0 . 0.2))) . 13)
+(#(struct:player 0 () #hash((0 . 0.03))) . 10)
+(#(struct:player 0 () #hash((0 . 0.95))) . 10)
+(#(struct:player 0 () #hash((0 . 0.66))) . 9)
+(#(struct:player 0 () #hash((0 . 0.35))) . 6)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+(#(struct:player 0 () #hash((0 . 0.16))) . 5)
+(#(struct:player 0 () #hash((0 . 0.41))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+933
+(#(struct:player 0 () #hash((0 . 0.3))) . 18)
+(#(struct:player 0 () #hash((0 . 0.23))) . 14)
+(#(struct:player 0 () #hash((0 . 0.2))) . 13)
+(#(struct:player 0 () #hash((0 . 0.66))) . 12)
+(#(struct:player 0 () #hash((0 . 0.95))) . 10)
+(#(struct:player 0 () #hash((0 . 0.03))) . 9)
+(#(struct:player 0 () #hash((0 . 0.35))) . 7)
+(#(struct:player 0 () #hash((0 . 0.05))) . 5)
+(#(struct:player 0 () #hash((0 . 0.16))) . 5)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.4))) . 2)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+932
+(#(struct:player 0 () #hash((0 . 0.3))) . 15)
+(#(struct:player 0 () #hash((0 . 0.2))) . 12)
+(#(struct:player 0 () #hash((0 . 0.23))) . 12)
+(#(struct:player 0 () #hash((0 . 0.66))) . 12)
+(#(struct:player 0 () #hash((0 . 0.95))) . 12)
+(#(struct:player 0 () #hash((0 . 0.03))) . 10)
+(#(struct:player 0 () #hash((0 . 0.05))) . 8)
+(#(struct:player 0 () #hash((0 . 0.35))) . 7)
+(#(struct:player 0 () #hash((0 . 0.16))) . 5)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.4))) . 2)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+931
+(#(struct:player 0 () #hash((0 . 0.3))) . 16)
+(#(struct:player 0 () #hash((0 . 0.23))) . 14)
+(#(struct:player 0 () #hash((0 . 0.95))) . 13)
+(#(struct:player 0 () #hash((0 . 0.66))) . 12)
+(#(struct:player 0 () #hash((0 . 0.2))) . 11)
+(#(struct:player 0 () #hash((0 . 0.03))) . 11)
+(#(struct:player 0 () #hash((0 . 0.05))) . 7)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+(#(struct:player 0 () #hash((0 . 0.16))) . 4)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.4))) . 2)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+930
+(#(struct:player 0 () #hash((0 . 0.95))) . 16)
+(#(struct:player 0 () #hash((0 . 0.3))) . 15)
+(#(struct:player 0 () #hash((0 . 0.23))) . 13)
+(#(struct:player 0 () #hash((0 . 0.66))) . 12)
+(#(struct:player 0 () #hash((0 . 0.2))) . 11)
+(#(struct:player 0 () #hash((0 . 0.03))) . 11)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+(#(struct:player 0 () #hash((0 . 0.16))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+929
+(#(struct:player 0 () #hash((0 . 0.3))) . 14)
+(#(struct:player 0 () #hash((0 . 0.95))) . 14)
+(#(struct:player 0 () #hash((0 . 0.03))) . 12)
+(#(struct:player 0 () #hash((0 . 0.66))) . 12)
+(#(struct:player 0 () #hash((0 . 0.23))) . 11)
+(#(struct:player 0 () #hash((0 . 0.2))) . 10)
+(#(struct:player 0 () #hash((0 . 0.16))) . 7)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+928
+(#(struct:player 0 () #hash((0 . 0.3))) . 14)
+(#(struct:player 0 () #hash((0 . 0.03))) . 13)
+(#(struct:player 0 () #hash((0 . 0.95))) . 13)
+(#(struct:player 0 () #hash((0 . 0.66))) . 12)
+(#(struct:player 0 () #hash((0 . 0.2))) . 11)
+(#(struct:player 0 () #hash((0 . 0.23))) . 10)
+(#(struct:player 0 () #hash((0 . 0.16))) . 9)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+(#(struct:player 0 () #hash((0 . 0.05))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+927
+(#(struct:player 0 () #hash((0 . 0.95))) . 16)
+(#(struct:player 0 () #hash((0 . 0.66))) . 13)
+(#(struct:player 0 () #hash((0 . 0.3))) . 13)
+(#(struct:player 0 () #hash((0 . 0.03))) . 11)
+(#(struct:player 0 () #hash((0 . 0.2))) . 10)
+(#(struct:player 0 () #hash((0 . 0.23))) . 9)
+(#(struct:player 0 () #hash((0 . 0.05))) . 8)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+926
+(#(struct:player 0 () #hash((0 . 0.95))) . 16)
+(#(struct:player 0 () #hash((0 . 0.3))) . 15)
+(#(struct:player 0 () #hash((0 . 0.2))) . 12)
+(#(struct:player 0 () #hash((0 . 0.66))) . 12)
+(#(struct:player 0 () #hash((0 . 0.23))) . 10)
+(#(struct:player 0 () #hash((0 . 0.03))) . 10)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.05))) . 7)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+(#(struct:player 0 () #hash((0 . 0.41))) . 1)
+925
+(#(struct:player 0 () #hash((0 . 0.3))) . 18)
+(#(struct:player 0 () #hash((0 . 0.95))) . 17)
+(#(struct:player 0 () #hash((0 . 0.2))) . 11)
+(#(struct:player 0 () #hash((0 . 0.23))) . 10)
+(#(struct:player 0 () #hash((0 . 0.66))) . 10)
+(#(struct:player 0 () #hash((0 . 0.03))) . 9)
+(#(struct:player 0 () #hash((0 . 0.16))) . 7)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+(#(struct:player 0 () #hash((0 . 0.41))) . 1)
+924
+(#(struct:player 0 () #hash((0 . 0.3))) . 17)
+(#(struct:player 0 () #hash((0 . 0.95))) . 16)
+(#(struct:player 0 () #hash((0 . 0.2))) . 11)
+(#(struct:player 0 () #hash((0 . 0.23))) . 10)
+(#(struct:player 0 () #hash((0 . 0.66))) . 10)
+(#(struct:player 0 () #hash((0 . 0.03))) . 9)
+(#(struct:player 0 () #hash((0 . 0.35))) . 7)
+(#(struct:player 0 () #hash((0 . 0.05))) . 7)
+(#(struct:player 0 () #hash((0 . 0.16))) . 7)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+(#(struct:player 0 () #hash((0 . 0.41))) . 1)
+923
+(#(struct:player 0 () #hash((0 . 0.3))) . 18)
+(#(struct:player 0 () #hash((0 . 0.95))) . 16)
+(#(struct:player 0 () #hash((0 . 0.2))) . 12)
+(#(struct:player 0 () #hash((0 . 0.03))) . 12)
+(#(struct:player 0 () #hash((0 . 0.66))) . 11)
+(#(struct:player 0 () #hash((0 . 0.23))) . 7)
+(#(struct:player 0 () #hash((0 . 0.35))) . 6)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+(#(struct:player 0 () #hash((0 . 0.16))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+(#(struct:player 0 () #hash((0 . 0.41))) . 1)
+922
+(#(struct:player 0 () #hash((0 . 0.3))) . 18)
+(#(struct:player 0 () #hash((0 . 0.95))) . 15)
+(#(struct:player 0 () #hash((0 . 0.2))) . 13)
+(#(struct:player 0 () #hash((0 . 0.03))) . 13)
+(#(struct:player 0 () #hash((0 . 0.66))) . 9)
+(#(struct:player 0 () #hash((0 . 0.35))) . 8)
+(#(struct:player 0 () #hash((0 . 0.23))) . 7)
+(#(struct:player 0 () #hash((0 . 0.05))) . 7)
+(#(struct:player 0 () #hash((0 . 0.16))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+(#(struct:player 0 () #hash((0 . 0.41))) . 1)
+921
+(#(struct:player 0 () #hash((0 . 0.3))) . 17)
+(#(struct:player 0 () #hash((0 . 0.95))) . 15)
+(#(struct:player 0 () #hash((0 . 0.03))) . 14)
+(#(struct:player 0 () #hash((0 . 0.2))) . 11)
+(#(struct:player 0 () #hash((0 . 0.66))) . 9)
+(#(struct:player 0 () #hash((0 . 0.35))) . 8)
+(#(struct:player 0 () #hash((0 . 0.05))) . 8)
+(#(struct:player 0 () #hash((0 . 0.23))) . 7)
+(#(struct:player 0 () #hash((0 . 0.16))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+(#(struct:player 0 () #hash((0 . 0.41))) . 1)
+920
+(#(struct:player 0 () #hash((0 . 0.95))) . 16)
+(#(struct:player 0 () #hash((0 . 0.03))) . 14)
+(#(struct:player 0 () #hash((0 . 0.3))) . 14)
+(#(struct:player 0 () #hash((0 . 0.66))) . 11)
+(#(struct:player 0 () #hash((0 . 0.2))) . 10)
+(#(struct:player 0 () #hash((0 . 0.35))) . 8)
+(#(struct:player 0 () #hash((0 . 0.23))) . 8)
+(#(struct:player 0 () #hash((0 . 0.05))) . 7)
+(#(struct:player 0 () #hash((0 . 0.16))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+919
+(#(struct:player 0 () #hash((0 . 0.3))) . 15)
+(#(struct:player 0 () #hash((0 . 0.95))) . 15)
+(#(struct:player 0 () #hash((0 . 0.03))) . 13)
+(#(struct:player 0 () #hash((0 . 0.2))) . 10)
+(#(struct:player 0 () #hash((0 . 0.66))) . 10)
+(#(struct:player 0 () #hash((0 . 0.35))) . 8)
+(#(struct:player 0 () #hash((0 . 0.23))) . 8)
+(#(struct:player 0 () #hash((0 . 0.05))) . 7)
+(#(struct:player 0 () #hash((0 . 0.16))) . 6)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+918
+(#(struct:player 0 () #hash((0 . 0.03))) . 15)
+(#(struct:player 0 () #hash((0 . 0.3))) . 14)
+(#(struct:player 0 () #hash((0 . 0.95))) . 12)
+(#(struct:player 0 () #hash((0 . 0.2))) . 10)
+(#(struct:player 0 () #hash((0 . 0.35))) . 8)
+(#(struct:player 0 () #hash((0 . 0.23))) . 8)
+(#(struct:player 0 () #hash((0 . 0.05))) . 8)
+(#(struct:player 0 () #hash((0 . 0.66))) . 8)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+917
+(#(struct:player 0 () #hash((0 . 0.03))) . 16)
+(#(struct:player 0 () #hash((0 . 0.3))) . 14)
+(#(struct:player 0 () #hash((0 . 0.95))) . 13)
+(#(struct:player 0 () #hash((0 . 0.2))) . 10)
+(#(struct:player 0 () #hash((0 . 0.23))) . 8)
+(#(struct:player 0 () #hash((0 . 0.05))) . 8)
+(#(struct:player 0 () #hash((0 . 0.35))) . 7)
+(#(struct:player 0 () #hash((0 . 0.66))) . 7)
+(#(struct:player 0 () #hash((0 . 0.16))) . 7)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+916
+(#(struct:player 0 () #hash((0 . 0.3))) . 16)
+(#(struct:player 0 () #hash((0 . 0.03))) . 15)
+(#(struct:player 0 () #hash((0 . 0.95))) . 15)
+(#(struct:player 0 () #hash((0 . 0.2))) . 9)
+(#(struct:player 0 () #hash((0 . 0.66))) . 8)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.05))) . 7)
+(#(struct:player 0 () #hash((0 . 0.23))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+915
+(#(struct:player 0 () #hash((0 . 0.3))) . 18)
+(#(struct:player 0 () #hash((0 . 0.95))) . 14)
+(#(struct:player 0 () #hash((0 . 0.03))) . 13)
+(#(struct:player 0 () #hash((0 . 0.2))) . 9)
+(#(struct:player 0 () #hash((0 . 0.16))) . 9)
+(#(struct:player 0 () #hash((0 . 0.35))) . 8)
+(#(struct:player 0 () #hash((0 . 0.66))) . 8)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+(#(struct:player 0 () #hash((0 . 0.23))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 4)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+914
+(#(struct:player 0 () #hash((0 . 0.3))) . 18)
+(#(struct:player 0 () #hash((0 . 0.95))) . 17)
+(#(struct:player 0 () #hash((0 . 0.03))) . 12)
+(#(struct:player 0 () #hash((0 . 0.35))) . 10)
+(#(struct:player 0 () #hash((0 . 0.16))) . 9)
+(#(struct:player 0 () #hash((0 . 0.2))) . 8)
+(#(struct:player 0 () #hash((0 . 0.66))) . 8)
+(#(struct:player 0 () #hash((0 . 0.23))) . 6)
+(#(struct:player 0 () #hash((0 . 0.05))) . 5)
+(#(struct:player 0 () #hash((0 . 0.34))) . 3)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.4))) . 2)
+913
+(#(struct:player 0 () #hash((0 . 0.95))) . 19)
+(#(struct:player 0 () #hash((0 . 0.3))) . 17)
+(#(struct:player 0 () #hash((0 . 0.66))) . 11)
+(#(struct:player 0 () #hash((0 . 0.35))) . 10)
+(#(struct:player 0 () #hash((0 . 0.03))) . 10)
+(#(struct:player 0 () #hash((0 . 0.16))) . 10)
+(#(struct:player 0 () #hash((0 . 0.2))) . 6)
+(#(struct:player 0 () #hash((0 . 0.23))) . 6)
+(#(struct:player 0 () #hash((0 . 0.05))) . 5)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.4))) . 2)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+912
+(#(struct:player 0 () #hash((0 . 0.95))) . 21)
+(#(struct:player 0 () #hash((0 . 0.3))) . 15)
+(#(struct:player 0 () #hash((0 . 0.66))) . 11)
+(#(struct:player 0 () #hash((0 . 0.16))) . 11)
+(#(struct:player 0 () #hash((0 . 0.35))) . 9)
+(#(struct:player 0 () #hash((0 . 0.03))) . 8)
+(#(struct:player 0 () #hash((0 . 0.2))) . 7)
+(#(struct:player 0 () #hash((0 . 0.23))) . 6)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.4))) . 2)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+911
+(#(struct:player 0 () #hash((0 . 0.3))) . 18)
+(#(struct:player 0 () #hash((0 . 0.95))) . 18)
+(#(struct:player 0 () #hash((0 . 0.16))) . 12)
+(#(struct:player 0 () #hash((0 . 0.66))) . 11)
+(#(struct:player 0 () #hash((0 . 0.35))) . 8)
+(#(struct:player 0 () #hash((0 . 0.2))) . 8)
+(#(struct:player 0 () #hash((0 . 0.23))) . 7)
+(#(struct:player 0 () #hash((0 . 0.03))) . 6)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.4))) . 2)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+910
+(#(struct:player 0 () #hash((0 . 0.3))) . 19)
+(#(struct:player 0 () #hash((0 . 0.95))) . 19)
+(#(struct:player 0 () #hash((0 . 0.16))) . 13)
+(#(struct:player 0 () #hash((0 . 0.66))) . 9)
+(#(struct:player 0 () #hash((0 . 0.03))) . 8)
+(#(struct:player 0 () #hash((0 . 0.35))) . 7)
+(#(struct:player 0 () #hash((0 . 0.2))) . 7)
+(#(struct:player 0 () #hash((0 . 0.23))) . 7)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.4))) . 2)
+(#(struct:player 0 () #hash((0 . 0.34))) . 1)
+909
+(#(struct:player 0 () #hash((0 . 0.95))) . 21)
+(#(struct:player 0 () #hash((0 . 0.3))) . 19)
+(#(struct:player 0 () #hash((0 . 0.16))) . 13)
+(#(struct:player 0 () #hash((0 . 0.66))) . 11)
+(#(struct:player 0 () #hash((0 . 0.2))) . 7)
+(#(struct:player 0 () #hash((0 . 0.23))) . 7)
+(#(struct:player 0 () #hash((0 . 0.03))) . 6)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.4))) . 2)
+(#(struct:player 0 () #hash((0 . 0.34))) . 1)
+908
+(#(struct:player 0 () #hash((0 . 0.3))) . 24)
+(#(struct:player 0 () #hash((0 . 0.95))) . 19)
+(#(struct:player 0 () #hash((0 . 0.16))) . 14)
+(#(struct:player 0 () #hash((0 . 0.66))) . 10)
+(#(struct:player 0 () #hash((0 . 0.23))) . 6)
+(#(struct:player 0 () #hash((0 . 0.03))) . 6)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+(#(struct:player 0 () #hash((0 . 0.2))) . 5)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.4))) . 2)
+(#(struct:player 0 () #hash((0 . 0.34))) . 1)
+907
+(#(struct:player 0 () #hash((0 . 0.3))) . 22)
+(#(struct:player 0 () #hash((0 . 0.95))) . 16)
+(#(struct:player 0 () #hash((0 . 0.16))) . 13)
+(#(struct:player 0 () #hash((0 . 0.66))) . 11)
+(#(struct:player 0 () #hash((0 . 0.35))) . 8)
+(#(struct:player 0 () #hash((0 . 0.05))) . 7)
+(#(struct:player 0 () #hash((0 . 0.03))) . 6)
+(#(struct:player 0 () #hash((0 . 0.2))) . 5)
+(#(struct:player 0 () #hash((0 . 0.23))) . 5)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.4))) . 2)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+906
+(#(struct:player 0 () #hash((0 . 0.3))) . 21)
+(#(struct:player 0 () #hash((0 . 0.95))) . 19)
+(#(struct:player 0 () #hash((0 . 0.16))) . 13)
+(#(struct:player 0 () #hash((0 . 0.05))) . 9)
+(#(struct:player 0 () #hash((0 . 0.66))) . 9)
+(#(struct:player 0 () #hash((0 . 0.35))) . 8)
+(#(struct:player 0 () #hash((0 . 0.03))) . 6)
+(#(struct:player 0 () #hash((0 . 0.23))) . 5)
+(#(struct:player 0 () #hash((0 . 0.41))) . 3)
+(#(struct:player 0 () #hash((0 . 0.2))) . 3)
+(#(struct:player 0 () #hash((0 . 0.4))) . 2)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+905
+(#(struct:player 0 () #hash((0 . 0.3))) . 20)
+(#(struct:player 0 () #hash((0 . 0.95))) . 18)
+(#(struct:player 0 () #hash((0 . 0.16))) . 15)
+(#(struct:player 0 () #hash((0 . 0.66))) . 10)
+(#(struct:player 0 () #hash((0 . 0.35))) . 9)
+(#(struct:player 0 () #hash((0 . 0.05))) . 9)
+(#(struct:player 0 () #hash((0 . 0.03))) . 5)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.2))) . 3)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.34))) . 2)
+904
+(#(struct:player 0 () #hash((0 . 0.3))) . 22)
+(#(struct:player 0 () #hash((0 . 0.95))) . 19)
+(#(struct:player 0 () #hash((0 . 0.16))) . 12)
+(#(struct:player 0 () #hash((0 . 0.05))) . 10)
+(#(struct:player 0 () #hash((0 . 0.66))) . 10)
+(#(struct:player 0 () #hash((0 . 0.35))) . 9)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.03))) . 4)
+(#(struct:player 0 () #hash((0 . 0.2))) . 3)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.34))) . 1)
+903
+(#(struct:player 0 () #hash((0 . 0.3))) . 24)
+(#(struct:player 0 () #hash((0 . 0.95))) . 18)
+(#(struct:player 0 () #hash((0 . 0.16))) . 13)
+(#(struct:player 0 () #hash((0 . 0.05))) . 11)
+(#(struct:player 0 () #hash((0 . 0.35))) . 9)
+(#(struct:player 0 () #hash((0 . 0.66))) . 9)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.03))) . 4)
+(#(struct:player 0 () #hash((0 . 0.2))) . 3)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.41))) . 1)
+(#(struct:player 0 () #hash((0 . 0.34))) . 1)
+902
+(#(struct:player 0 () #hash((0 . 0.95))) . 21)
+(#(struct:player 0 () #hash((0 . 0.3))) . 20)
+(#(struct:player 0 () #hash((0 . 0.16))) . 13)
+(#(struct:player 0 () #hash((0 . 0.05))) . 12)
+(#(struct:player 0 () #hash((0 . 0.35))) . 10)
+(#(struct:player 0 () #hash((0 . 0.66))) . 10)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.03))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.41))) . 1)
+(#(struct:player 0 () #hash((0 . 0.2))) . 1)
+(#(struct:player 0 () #hash((0 . 0.34))) . 1)
+901
+(#(struct:player 0 () #hash((0 . 0.3))) . 21)
+(#(struct:player 0 () #hash((0 . 0.95))) . 19)
+(#(struct:player 0 () #hash((0 . 0.16))) . 12)
+(#(struct:player 0 () #hash((0 . 0.35))) . 11)
+(#(struct:player 0 () #hash((0 . 0.05))) . 11)
+(#(struct:player 0 () #hash((0 . 0.66))) . 9)
+(#(struct:player 0 () #hash((0 . 0.23))) . 6)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.03))) . 3)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.2))) . 1)
+(#(struct:player 0 () #hash((0 . 0.34))) . 1)
+900
+(#(struct:player 0 () #hash((0 . 0.3))) . 21)
+(#(struct:player 0 () #hash((0 . 0.95))) . 20)
+(#(struct:player 0 () #hash((0 . 0.35))) . 12)
+(#(struct:player 0 () #hash((0 . 0.05))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 12)
+(#(struct:player 0 () #hash((0 . 0.66))) . 8)
+(#(struct:player 0 () #hash((0 . 0.23))) . 7)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.4))) . 2)
+(#(struct:player 0 () #hash((0 . 0.03))) . 2)
+(#(struct:player 0 () #hash((0 . 0.2))) . 1)
+(#(struct:player 0 () #hash((0 . 0.34))) . 1)
+899
+(#(struct:player 0 () #hash((0 . 0.95))) . 22)
+(#(struct:player 0 () #hash((0 . 0.3))) . 19)
+(#(struct:player 0 () #hash((0 . 0.05))) . 14)
+(#(struct:player 0 () #hash((0 . 0.35))) . 11)
+(#(struct:player 0 () #hash((0 . 0.16))) . 11)
+(#(struct:player 0 () #hash((0 . 0.23))) . 7)
+(#(struct:player 0 () #hash((0 . 0.66))) . 7)
+(#(struct:player 0 () #hash((0 . 0.03))) . 3)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.4))) . 2)
+(#(struct:player 0 () #hash((0 . 0.2))) . 1)
+(#(struct:player 0 () #hash((0 . 0.34))) . 1)
+898
+(#(struct:player 0 () #hash((0 . 0.95))) . 23)
+(#(struct:player 0 () #hash((0 . 0.3))) . 18)
+(#(struct:player 0 () #hash((0 . 0.05))) . 15)
+(#(struct:player 0 () #hash((0 . 0.35))) . 11)
+(#(struct:player 0 () #hash((0 . 0.16))) . 11)
+(#(struct:player 0 () #hash((0 . 0.23))) . 7)
+(#(struct:player 0 () #hash((0 . 0.66))) . 7)
+(#(struct:player 0 () #hash((0 . 0.03))) . 3)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.2))) . 1)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+(#(struct:player 0 () #hash((0 . 0.34))) . 1)
+897
+(#(struct:player 0 () #hash((0 . 0.95))) . 20)
+(#(struct:player 0 () #hash((0 . 0.3))) . 18)
+(#(struct:player 0 () #hash((0 . 0.05))) . 16)
+(#(struct:player 0 () #hash((0 . 0.16))) . 12)
+(#(struct:player 0 () #hash((0 . 0.35))) . 10)
+(#(struct:player 0 () #hash((0 . 0.66))) . 10)
+(#(struct:player 0 () #hash((0 . 0.23))) . 6)
+(#(struct:player 0 () #hash((0 . 0.03))) . 3)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.2))) . 1)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+(#(struct:player 0 () #hash((0 . 0.34))) . 1)
+896
+(#(struct:player 0 () #hash((0 . 0.95))) . 20)
+(#(struct:player 0 () #hash((0 . 0.3))) . 17)
+(#(struct:player 0 () #hash((0 . 0.05))) . 16)
+(#(struct:player 0 () #hash((0 . 0.16))) . 12)
+(#(struct:player 0 () #hash((0 . 0.35))) . 10)
+(#(struct:player 0 () #hash((0 . 0.66))) . 10)
+(#(struct:player 0 () #hash((0 . 0.23))) . 6)
+(#(struct:player 0 () #hash((0 . 0.03))) . 4)
+(#(struct:player 0 () #hash((0 . 0.41))) . 2)
+(#(struct:player 0 () #hash((0 . 0.2))) . 1)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+(#(struct:player 0 () #hash((0 . 0.34))) . 1)
+895
+(#(struct:player 0 () #hash((0 . 0.95))) . 21)
+(#(struct:player 0 () #hash((0 . 0.3))) . 18)
+(#(struct:player 0 () #hash((0 . 0.05))) . 15)
+(#(struct:player 0 () #hash((0 . 0.16))) . 13)
+(#(struct:player 0 () #hash((0 . 0.35))) . 11)
+(#(struct:player 0 () #hash((0 . 0.66))) . 9)
+(#(struct:player 0 () #hash((0 . 0.23))) . 6)
+(#(struct:player 0 () #hash((0 . 0.03))) . 3)
+(#(struct:player 0 () #hash((0 . 0.2))) . 2)
+(#(struct:player 0 () #hash((0 . 0.41))) . 1)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+894
+(#(struct:player 0 () #hash((0 . 0.3))) . 20)
+(#(struct:player 0 () #hash((0 . 0.95))) . 20)
+(#(struct:player 0 () #hash((0 . 0.05))) . 16)
+(#(struct:player 0 () #hash((0 . 0.16))) . 12)
+(#(struct:player 0 () #hash((0 . 0.35))) . 11)
+(#(struct:player 0 () #hash((0 . 0.66))) . 9)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.03))) . 4)
+(#(struct:player 0 () #hash((0 . 0.2))) . 2)
+(#(struct:player 0 () #hash((0 . 0.41))) . 1)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+893
+(#(struct:player 0 () #hash((0 . 0.3))) . 21)
+(#(struct:player 0 () #hash((0 . 0.95))) . 20)
+(#(struct:player 0 () #hash((0 . 0.05))) . 16)
+(#(struct:player 0 () #hash((0 . 0.16))) . 13)
+(#(struct:player 0 () #hash((0 . 0.35))) . 9)
+(#(struct:player 0 () #hash((0 . 0.66))) . 9)
+(#(struct:player 0 () #hash((0 . 0.23))) . 6)
+(#(struct:player 0 () #hash((0 . 0.03))) . 3)
+(#(struct:player 0 () #hash((0 . 0.41))) . 1)
+(#(struct:player 0 () #hash((0 . 0.2))) . 1)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+892
+(#(struct:player 0 () #hash((0 . 0.95))) . 24)
+(#(struct:player 0 () #hash((0 . 0.05))) . 17)
+(#(struct:player 0 () #hash((0 . 0.3))) . 16)
+(#(struct:player 0 () #hash((0 . 0.16))) . 13)
+(#(struct:player 0 () #hash((0 . 0.35))) . 9)
+(#(struct:player 0 () #hash((0 . 0.66))) . 8)
+(#(struct:player 0 () #hash((0 . 0.23))) . 6)
+(#(struct:player 0 () #hash((0 . 0.03))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 2)
+(#(struct:player 0 () #hash((0 . 0.2))) . 1)
+891
+(#(struct:player 0 () #hash((0 . 0.95))) . 25)
+(#(struct:player 0 () #hash((0 . 0.05))) . 18)
+(#(struct:player 0 () #hash((0 . 0.3))) . 15)
+(#(struct:player 0 () #hash((0 . 0.16))) . 13)
+(#(struct:player 0 () #hash((0 . 0.35))) . 10)
+(#(struct:player 0 () #hash((0 . 0.66))) . 8)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.03))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 2)
+(#(struct:player 0 () #hash((0 . 0.2))) . 1)
+890
+(#(struct:player 0 () #hash((0 . 0.95))) . 23)
+(#(struct:player 0 () #hash((0 . 0.05))) . 18)
+(#(struct:player 0 () #hash((0 . 0.3))) . 17)
+(#(struct:player 0 () #hash((0 . 0.16))) . 11)
+(#(struct:player 0 () #hash((0 . 0.35))) . 10)
+(#(struct:player 0 () #hash((0 . 0.66))) . 8)
+(#(struct:player 0 () #hash((0 . 0.4))) . 4)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.03))) . 4)
+(#(struct:player 0 () #hash((0 . 0.2))) . 1)
+889
+(#(struct:player 0 () #hash((0 . 0.95))) . 22)
+(#(struct:player 0 () #hash((0 . 0.05))) . 17)
+(#(struct:player 0 () #hash((0 . 0.3))) . 16)
+(#(struct:player 0 () #hash((0 . 0.35))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 11)
+(#(struct:player 0 () #hash((0 . 0.66))) . 8)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.03))) . 4)
+(#(struct:player 0 () #hash((0 . 0.2))) . 1)
+888
+(#(struct:player 0 () #hash((0 . 0.95))) . 25)
+(#(struct:player 0 () #hash((0 . 0.3))) . 19)
+(#(struct:player 0 () #hash((0 . 0.05))) . 14)
+(#(struct:player 0 () #hash((0 . 0.35))) . 11)
+(#(struct:player 0 () #hash((0 . 0.16))) . 11)
+(#(struct:player 0 () #hash((0 . 0.66))) . 7)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.03))) . 4)
+(#(struct:player 0 () #hash((0 . 0.23))) . 3)
+(#(struct:player 0 () #hash((0 . 0.2))) . 1)
+887
+(#(struct:player 0 () #hash((0 . 0.95))) . 23)
+(#(struct:player 0 () #hash((0 . 0.3))) . 20)
+(#(struct:player 0 () #hash((0 . 0.05))) . 14)
+(#(struct:player 0 () #hash((0 . 0.35))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 12)
+(#(struct:player 0 () #hash((0 . 0.66))) . 6)
+(#(struct:player 0 () #hash((0 . 0.4))) . 5)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.03))) . 3)
+(#(struct:player 0 () #hash((0 . 0.2))) . 1)
+886
+(#(struct:player 0 () #hash((0 . 0.95))) . 22)
+(#(struct:player 0 () #hash((0 . 0.3))) . 19)
+(#(struct:player 0 () #hash((0 . 0.05))) . 16)
+(#(struct:player 0 () #hash((0 . 0.35))) . 13)
+(#(struct:player 0 () #hash((0 . 0.16))) . 11)
+(#(struct:player 0 () #hash((0 . 0.66))) . 8)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.03))) . 3)
+(#(struct:player 0 () #hash((0 . 0.2))) . 1)
+885
+(#(struct:player 0 () #hash((0 . 0.95))) . 22)
+(#(struct:player 0 () #hash((0 . 0.3))) . 20)
+(#(struct:player 0 () #hash((0 . 0.05))) . 16)
+(#(struct:player 0 () #hash((0 . 0.16))) . 12)
+(#(struct:player 0 () #hash((0 . 0.35))) . 11)
+(#(struct:player 0 () #hash((0 . 0.66))) . 8)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 3)
+(#(struct:player 0 () #hash((0 . 0.03))) . 3)
+(#(struct:player 0 () #hash((0 . 0.2))) . 1)
+884
+(#(struct:player 0 () #hash((0 . 0.3))) . 22)
+(#(struct:player 0 () #hash((0 . 0.95))) . 22)
+(#(struct:player 0 () #hash((0 . 0.05))) . 14)
+(#(struct:player 0 () #hash((0 . 0.16))) . 14)
+(#(struct:player 0 () #hash((0 . 0.35))) . 11)
+(#(struct:player 0 () #hash((0 . 0.66))) . 8)
+(#(struct:player 0 () #hash((0 . 0.03))) . 4)
+(#(struct:player 0 () #hash((0 . 0.23))) . 3)
+(#(struct:player 0 () #hash((0 . 0.4))) . 2)
+883
+(#(struct:player 0 () #hash((0 . 0.3))) . 24)
+(#(struct:player 0 () #hash((0 . 0.95))) . 21)
+(#(struct:player 0 () #hash((0 . 0.35))) . 15)
+(#(struct:player 0 () #hash((0 . 0.05))) . 14)
+(#(struct:player 0 () #hash((0 . 0.16))) . 10)
+(#(struct:player 0 () #hash((0 . 0.66))) . 9)
+(#(struct:player 0 () #hash((0 . 0.23))) . 3)
+(#(struct:player 0 () #hash((0 . 0.03))) . 3)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+882
+(#(struct:player 0 () #hash((0 . 0.95))) . 23)
+(#(struct:player 0 () #hash((0 . 0.3))) . 22)
+(#(struct:player 0 () #hash((0 . 0.05))) . 15)
+(#(struct:player 0 () #hash((0 . 0.35))) . 13)
+(#(struct:player 0 () #hash((0 . 0.66))) . 10)
+(#(struct:player 0 () #hash((0 . 0.16))) . 10)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.03))) . 2)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+881
+(#(struct:player 0 () #hash((0 . 0.3))) . 24)
+(#(struct:player 0 () #hash((0 . 0.95))) . 20)
+(#(struct:player 0 () #hash((0 . 0.35))) . 15)
+(#(struct:player 0 () #hash((0 . 0.05))) . 13)
+(#(struct:player 0 () #hash((0 . 0.66))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 10)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+(#(struct:player 0 () #hash((0 . 0.03))) . 1)
+880
+(#(struct:player 0 () #hash((0 . 0.95))) . 24)
+(#(struct:player 0 () #hash((0 . 0.3))) . 21)
+(#(struct:player 0 () #hash((0 . 0.05))) . 14)
+(#(struct:player 0 () #hash((0 . 0.35))) . 13)
+(#(struct:player 0 () #hash((0 . 0.66))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 10)
+(#(struct:player 0 () #hash((0 . 0.23))) . 4)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+(#(struct:player 0 () #hash((0 . 0.03))) . 1)
+879
+(#(struct:player 0 () #hash((0 . 0.95))) . 25)
+(#(struct:player 0 () #hash((0 . 0.3))) . 22)
+(#(struct:player 0 () #hash((0 . 0.05))) . 16)
+(#(struct:player 0 () #hash((0 . 0.35))) . 13)
+(#(struct:player 0 () #hash((0 . 0.66))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.23))) . 2)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+(#(struct:player 0 () #hash((0 . 0.03))) . 1)
+878
+(#(struct:player 0 () #hash((0 . 0.3))) . 25)
+(#(struct:player 0 () #hash((0 . 0.95))) . 20)
+(#(struct:player 0 () #hash((0 . 0.05))) . 19)
+(#(struct:player 0 () #hash((0 . 0.35))) . 12)
+(#(struct:player 0 () #hash((0 . 0.66))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.23))) . 2)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+(#(struct:player 0 () #hash((0 . 0.03))) . 1)
+877
+(#(struct:player 0 () #hash((0 . 0.3))) . 25)
+(#(struct:player 0 () #hash((0 . 0.95))) . 24)
+(#(struct:player 0 () #hash((0 . 0.05))) . 16)
+(#(struct:player 0 () #hash((0 . 0.35))) . 11)
+(#(struct:player 0 () #hash((0 . 0.66))) . 11)
+(#(struct:player 0 () #hash((0 . 0.16))) . 9)
+(#(struct:player 0 () #hash((0 . 0.03))) . 2)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+(#(struct:player 0 () #hash((0 . 0.23))) . 1)
+876
+(#(struct:player 0 () #hash((0 . 0.3))) . 27)
+(#(struct:player 0 () #hash((0 . 0.95))) . 26)
+(#(struct:player 0 () #hash((0 . 0.05))) . 17)
+(#(struct:player 0 () #hash((0 . 0.35))) . 10)
+(#(struct:player 0 () #hash((0 . 0.66))) . 9)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+(#(struct:player 0 () #hash((0 . 0.23))) . 1)
+(#(struct:player 0 () #hash((0 . 0.03))) . 1)
+875
+(#(struct:player 0 () #hash((0 . 0.95))) . 29)
+(#(struct:player 0 () #hash((0 . 0.3))) . 26)
+(#(struct:player 0 () #hash((0 . 0.05))) . 15)
+(#(struct:player 0 () #hash((0 . 0.35))) . 11)
+(#(struct:player 0 () #hash((0 . 0.66))) . 8)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+(#(struct:player 0 () #hash((0 . 0.23))) . 1)
+(#(struct:player 0 () #hash((0 . 0.03))) . 1)
+874
+(#(struct:player 0 () #hash((0 . 0.95))) . 28)
+(#(struct:player 0 () #hash((0 . 0.3))) . 25)
+(#(struct:player 0 () #hash((0 . 0.05))) . 20)
+(#(struct:player 0 () #hash((0 . 0.35))) . 10)
+(#(struct:player 0 () #hash((0 . 0.66))) . 8)
+(#(struct:player 0 () #hash((0 . 0.16))) . 6)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+(#(struct:player 0 () #hash((0 . 0.23))) . 1)
+(#(struct:player 0 () #hash((0 . 0.03))) . 1)
+873
+(#(struct:player 0 () #hash((0 . 0.3))) . 26)
+(#(struct:player 0 () #hash((0 . 0.95))) . 26)
+(#(struct:player 0 () #hash((0 . 0.05))) . 20)
+(#(struct:player 0 () #hash((0 . 0.35))) . 10)
+(#(struct:player 0 () #hash((0 . 0.66))) . 8)
+(#(struct:player 0 () #hash((0 . 0.16))) . 7)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+(#(struct:player 0 () #hash((0 . 0.23))) . 1)
+(#(struct:player 0 () #hash((0 . 0.03))) . 1)
+872
+(#(struct:player 0 () #hash((0 . 0.3))) . 28)
+(#(struct:player 0 () #hash((0 . 0.95))) . 25)
+(#(struct:player 0 () #hash((0 . 0.05))) . 18)
+(#(struct:player 0 () #hash((0 . 0.35))) . 11)
+(#(struct:player 0 () #hash((0 . 0.66))) . 8)
+(#(struct:player 0 () #hash((0 . 0.16))) . 7)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+(#(struct:player 0 () #hash((0 . 0.23))) . 1)
+(#(struct:player 0 () #hash((0 . 0.03))) . 1)
+871
+(#(struct:player 0 () #hash((0 . 0.3))) . 29)
+(#(struct:player 0 () #hash((0 . 0.95))) . 25)
+(#(struct:player 0 () #hash((0 . 0.05))) . 18)
+(#(struct:player 0 () #hash((0 . 0.35))) . 11)
+(#(struct:player 0 () #hash((0 . 0.66))) . 7)
+(#(struct:player 0 () #hash((0 . 0.16))) . 7)
+(#(struct:player 0 () #hash((0 . 0.23))) . 2)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+870
+(#(struct:player 0 () #hash((0 . 0.3))) . 30)
+(#(struct:player 0 () #hash((0 . 0.95))) . 22)
+(#(struct:player 0 () #hash((0 . 0.05))) . 16)
+(#(struct:player 0 () #hash((0 . 0.35))) . 13)
+(#(struct:player 0 () #hash((0 . 0.66))) . 8)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.23))) . 2)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+869
+(#(struct:player 0 () #hash((0 . 0.3))) . 32)
+(#(struct:player 0 () #hash((0 . 0.95))) . 22)
+(#(struct:player 0 () #hash((0 . 0.05))) . 15)
+(#(struct:player 0 () #hash((0 . 0.35))) . 13)
+(#(struct:player 0 () #hash((0 . 0.66))) . 7)
+(#(struct:player 0 () #hash((0 . 0.16))) . 7)
+(#(struct:player 0 () #hash((0 . 0.23))) . 3)
+(#(struct:player 0 () #hash((0 . 0.4))) . 1)
+868
+(#(struct:player 0 () #hash((0 . 0.3))) . 33)
+(#(struct:player 0 () #hash((0 . 0.95))) . 21)
+(#(struct:player 0 () #hash((0 . 0.05))) . 18)
+(#(struct:player 0 () #hash((0 . 0.35))) . 14)
+(#(struct:player 0 () #hash((0 . 0.16))) . 7)
+(#(struct:player 0 () #hash((0 . 0.66))) . 5)
+(#(struct:player 0 () #hash((0 . 0.23))) . 2)
+867
+(#(struct:player 0 () #hash((0 . 0.3))) . 33)
+(#(struct:player 0 () #hash((0 . 0.95))) . 22)
+(#(struct:player 0 () #hash((0 . 0.05))) . 18)
+(#(struct:player 0 () #hash((0 . 0.35))) . 14)
+(#(struct:player 0 () #hash((0 . 0.16))) . 7)
+(#(struct:player 0 () #hash((0 . 0.66))) . 4)
+(#(struct:player 0 () #hash((0 . 0.23))) . 2)
+866
+(#(struct:player 0 () #hash((0 . 0.3))) . 34)
+(#(struct:player 0 () #hash((0 . 0.95))) . 24)
+(#(struct:player 0 () #hash((0 . 0.05))) . 15)
+(#(struct:player 0 () #hash((0 . 0.35))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.66))) . 5)
+(#(struct:player 0 () #hash((0 . 0.23))) . 2)
+865
+(#(struct:player 0 () #hash((0 . 0.3))) . 35)
+(#(struct:player 0 () #hash((0 . 0.95))) . 21)
+(#(struct:player 0 () #hash((0 . 0.05))) . 17)
+(#(struct:player 0 () #hash((0 . 0.35))) . 11)
+(#(struct:player 0 () #hash((0 . 0.16))) . 9)
+(#(struct:player 0 () #hash((0 . 0.66))) . 5)
+(#(struct:player 0 () #hash((0 . 0.23))) . 2)
+864
+(#(struct:player 0 () #hash((0 . 0.3))) . 32)
+(#(struct:player 0 () #hash((0 . 0.95))) . 25)
+(#(struct:player 0 () #hash((0 . 0.05))) . 16)
+(#(struct:player 0 () #hash((0 . 0.35))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 9)
+(#(struct:player 0 () #hash((0 . 0.66))) . 4)
+(#(struct:player 0 () #hash((0 . 0.23))) . 2)
+863
+(#(struct:player 0 () #hash((0 . 0.3))) . 36)
+(#(struct:player 0 () #hash((0 . 0.95))) . 26)
+(#(struct:player 0 () #hash((0 . 0.05))) . 14)
+(#(struct:player 0 () #hash((0 . 0.35))) . 10)
+(#(struct:player 0 () #hash((0 . 0.16))) . 10)
+(#(struct:player 0 () #hash((0 . 0.66))) . 3)
+(#(struct:player 0 () #hash((0 . 0.23))) . 1)
+862
+(#(struct:player 0 () #hash((0 . 0.3))) . 35)
+(#(struct:player 0 () #hash((0 . 0.95))) . 26)
+(#(struct:player 0 () #hash((0 . 0.05))) . 14)
+(#(struct:player 0 () #hash((0 . 0.35))) . 11)
+(#(struct:player 0 () #hash((0 . 0.16))) . 11)
+(#(struct:player 0 () #hash((0 . 0.66))) . 2)
+(#(struct:player 0 () #hash((0 . 0.23))) . 1)
+861
+(#(struct:player 0 () #hash((0 . 0.3))) . 34)
+(#(struct:player 0 () #hash((0 . 0.95))) . 25)
+(#(struct:player 0 () #hash((0 . 0.05))) . 14)
+(#(struct:player 0 () #hash((0 . 0.35))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 12)
+(#(struct:player 0 () #hash((0 . 0.66))) . 2)
+(#(struct:player 0 () #hash((0 . 0.23))) . 1)
+860
+(#(struct:player 0 () #hash((0 . 0.3))) . 34)
+(#(struct:player 0 () #hash((0 . 0.95))) . 23)
+(#(struct:player 0 () #hash((0 . 0.05))) . 15)
+(#(struct:player 0 () #hash((0 . 0.35))) . 13)
+(#(struct:player 0 () #hash((0 . 0.16))) . 11)
+(#(struct:player 0 () #hash((0 . 0.66))) . 3)
+(#(struct:player 0 () #hash((0 . 0.23))) . 1)
+859
+(#(struct:player 0 () #hash((0 . 0.3))) . 34)
+(#(struct:player 0 () #hash((0 . 0.95))) . 23)
+(#(struct:player 0 () #hash((0 . 0.05))) . 17)
+(#(struct:player 0 () #hash((0 . 0.35))) . 13)
+(#(struct:player 0 () #hash((0 . 0.16))) . 9)
+(#(struct:player 0 () #hash((0 . 0.66))) . 3)
+(#(struct:player 0 () #hash((0 . 0.23))) . 1)
+858
+(#(struct:player 0 () #hash((0 . 0.3))) . 34)
+(#(struct:player 0 () #hash((0 . 0.95))) . 25)
+(#(struct:player 0 () #hash((0 . 0.05))) . 15)
+(#(struct:player 0 () #hash((0 . 0.35))) . 13)
+(#(struct:player 0 () #hash((0 . 0.16))) . 9)
+(#(struct:player 0 () #hash((0 . 0.66))) . 3)
+(#(struct:player 0 () #hash((0 . 0.23))) . 1)
+857
+(#(struct:player 0 () #hash((0 . 0.3))) . 33)
+(#(struct:player 0 () #hash((0 . 0.95))) . 25)
+(#(struct:player 0 () #hash((0 . 0.05))) . 17)
+(#(struct:player 0 () #hash((0 . 0.35))) . 13)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.66))) . 3)
+(#(struct:player 0 () #hash((0 . 0.23))) . 1)
+856
+(#(struct:player 0 () #hash((0 . 0.3))) . 35)
+(#(struct:player 0 () #hash((0 . 0.95))) . 26)
+(#(struct:player 0 () #hash((0 . 0.05))) . 16)
+(#(struct:player 0 () #hash((0 . 0.35))) . 13)
+(#(struct:player 0 () #hash((0 . 0.16))) . 9)
+(#(struct:player 0 () #hash((0 . 0.66))) . 1)
+855
+(#(struct:player 0 () #hash((0 . 0.3))) . 31)
+(#(struct:player 0 () #hash((0 . 0.95))) . 30)
+(#(struct:player 0 () #hash((0 . 0.05))) . 16)
+(#(struct:player 0 () #hash((0 . 0.35))) . 14)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.66))) . 1)
+854
+(#(struct:player 0 () #hash((0 . 0.95))) . 32)
+(#(struct:player 0 () #hash((0 . 0.3))) . 27)
+(#(struct:player 0 () #hash((0 . 0.35))) . 15)
+(#(struct:player 0 () #hash((0 . 0.05))) . 15)
+(#(struct:player 0 () #hash((0 . 0.16))) . 10)
+(#(struct:player 0 () #hash((0 . 0.66))) . 1)
+853
+(#(struct:player 0 () #hash((0 . 0.3))) . 32)
+(#(struct:player 0 () #hash((0 . 0.95))) . 29)
+(#(struct:player 0 () #hash((0 . 0.35))) . 16)
+(#(struct:player 0 () #hash((0 . 0.05))) . 13)
+(#(struct:player 0 () #hash((0 . 0.16))) . 9)
+(#(struct:player 0 () #hash((0 . 0.66))) . 1)
+852
+(#(struct:player 0 () #hash((0 . 0.3))) . 36)
+(#(struct:player 0 () #hash((0 . 0.95))) . 25)
+(#(struct:player 0 () #hash((0 . 0.35))) . 14)
+(#(struct:player 0 () #hash((0 . 0.05))) . 14)
+(#(struct:player 0 () #hash((0 . 0.16))) . 10)
+(#(struct:player 0 () #hash((0 . 0.66))) . 1)
+851
+(#(struct:player 0 () #hash((0 . 0.3))) . 37)
+(#(struct:player 0 () #hash((0 . 0.95))) . 26)
+(#(struct:player 0 () #hash((0 . 0.05))) . 13)
+(#(struct:player 0 () #hash((0 . 0.35))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 11)
+(#(struct:player 0 () #hash((0 . 0.66))) . 1)
+850
+(#(struct:player 0 () #hash((0 . 0.3))) . 37)
+(#(struct:player 0 () #hash((0 . 0.95))) . 26)
+(#(struct:player 0 () #hash((0 . 0.05))) . 14)
+(#(struct:player 0 () #hash((0 . 0.35))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 11)
+849
+(#(struct:player 0 () #hash((0 . 0.3))) . 38)
+(#(struct:player 0 () #hash((0 . 0.95))) . 25)
+(#(struct:player 0 () #hash((0 . 0.05))) . 15)
+(#(struct:player 0 () #hash((0 . 0.16))) . 13)
+(#(struct:player 0 () #hash((0 . 0.35))) . 9)
+848
+(#(struct:player 0 () #hash((0 . 0.3))) . 37)
+(#(struct:player 0 () #hash((0 . 0.95))) . 25)
+(#(struct:player 0 () #hash((0 . 0.05))) . 16)
+(#(struct:player 0 () #hash((0 . 0.16))) . 13)
+(#(struct:player 0 () #hash((0 . 0.35))) . 9)
+847
+(#(struct:player 0 () #hash((0 . 0.3))) . 36)
+(#(struct:player 0 () #hash((0 . 0.95))) . 26)
+(#(struct:player 0 () #hash((0 . 0.05))) . 16)
+(#(struct:player 0 () #hash((0 . 0.16))) . 14)
+(#(struct:player 0 () #hash((0 . 0.35))) . 8)
+846
+(#(struct:player 0 () #hash((0 . 0.3))) . 38)
+(#(struct:player 0 () #hash((0 . 0.95))) . 26)
+(#(struct:player 0 () #hash((0 . 0.05))) . 16)
+(#(struct:player 0 () #hash((0 . 0.16))) . 12)
+(#(struct:player 0 () #hash((0 . 0.35))) . 8)
+845
+(#(struct:player 0 () #hash((0 . 0.3))) . 37)
+(#(struct:player 0 () #hash((0 . 0.95))) . 26)
+(#(struct:player 0 () #hash((0 . 0.05))) . 16)
+(#(struct:player 0 () #hash((0 . 0.16))) . 14)
+(#(struct:player 0 () #hash((0 . 0.35))) . 6)
+(#(struct:player 0 () #hash((0 . 0.04))) . 1)
+844
+(#(struct:player 0 () #hash((0 . 0.3))) . 36)
+(#(struct:player 0 () #hash((0 . 0.95))) . 26)
+(#(struct:player 0 () #hash((0 . 0.16))) . 17)
+(#(struct:player 0 () #hash((0 . 0.05))) . 14)
+(#(struct:player 0 () #hash((0 . 0.35))) . 6)
+(#(struct:player 0 () #hash((0 . 0.04))) . 1)
+843
+(#(struct:player 0 () #hash((0 . 0.3))) . 37)
+(#(struct:player 0 () #hash((0 . 0.95))) . 27)
+(#(struct:player 0 () #hash((0 . 0.16))) . 16)
+(#(struct:player 0 () #hash((0 . 0.05))) . 13)
+(#(struct:player 0 () #hash((0 . 0.35))) . 7)
+842
+(#(struct:player 0 () #hash((0 . 0.3))) . 36)
+(#(struct:player 0 () #hash((0 . 0.95))) . 29)
+(#(struct:player 0 () #hash((0 . 0.16))) . 17)
+(#(struct:player 0 () #hash((0 . 0.05))) . 13)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+841
+(#(struct:player 0 () #hash((0 . 0.3))) . 33)
+(#(struct:player 0 () #hash((0 . 0.95))) . 32)
+(#(struct:player 0 () #hash((0 . 0.16))) . 18)
+(#(struct:player 0 () #hash((0 . 0.05))) . 13)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+840
+(#(struct:player 0 () #hash((0 . 0.3))) . 33)
+(#(struct:player 0 () #hash((0 . 0.95))) . 28)
+(#(struct:player 0 () #hash((0 . 0.16))) . 20)
+(#(struct:player 0 () #hash((0 . 0.05))) . 15)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+839
+(#(struct:player 0 () #hash((0 . 0.3))) . 30)
+(#(struct:player 0 () #hash((0 . 0.95))) . 30)
+(#(struct:player 0 () #hash((0 . 0.16))) . 19)
+(#(struct:player 0 () #hash((0 . 0.05))) . 16)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+838
+(#(struct:player 0 () #hash((0 . 0.95))) . 31)
+(#(struct:player 0 () #hash((0 . 0.3))) . 29)
+(#(struct:player 0 () #hash((0 . 0.16))) . 19)
+(#(struct:player 0 () #hash((0 . 0.05))) . 15)
+(#(struct:player 0 () #hash((0 . 0.35))) . 6)
+837
+(#(struct:player 0 () #hash((0 . 0.95))) . 31)
+(#(struct:player 0 () #hash((0 . 0.3))) . 30)
+(#(struct:player 0 () #hash((0 . 0.16))) . 18)
+(#(struct:player 0 () #hash((0 . 0.05))) . 17)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+836
+(#(struct:player 0 () #hash((0 . 0.3))) . 33)
+(#(struct:player 0 () #hash((0 . 0.95))) . 28)
+(#(struct:player 0 () #hash((0 . 0.05))) . 18)
+(#(struct:player 0 () #hash((0 . 0.16))) . 17)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+835
+(#(struct:player 0 () #hash((0 . 0.95))) . 32)
+(#(struct:player 0 () #hash((0 . 0.3))) . 31)
+(#(struct:player 0 () #hash((0 . 0.05))) . 19)
+(#(struct:player 0 () #hash((0 . 0.16))) . 14)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+834
+(#(struct:player 0 () #hash((0 . 0.95))) . 34)
+(#(struct:player 0 () #hash((0 . 0.3))) . 31)
+(#(struct:player 0 () #hash((0 . 0.05))) . 18)
+(#(struct:player 0 () #hash((0 . 0.16))) . 13)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+833
+(#(struct:player 0 () #hash((0 . 0.95))) . 38)
+(#(struct:player 0 () #hash((0 . 0.3))) . 30)
+(#(struct:player 0 () #hash((0 . 0.05))) . 16)
+(#(struct:player 0 () #hash((0 . 0.16))) . 12)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+832
+(#(struct:player 0 () #hash((0 . 0.95))) . 38)
+(#(struct:player 0 () #hash((0 . 0.3))) . 26)
+(#(struct:player 0 () #hash((0 . 0.05))) . 19)
+(#(struct:player 0 () #hash((0 . 0.16))) . 13)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+831
+(#(struct:player 0 () #hash((0 . 0.95))) . 38)
+(#(struct:player 0 () #hash((0 . 0.3))) . 27)
+(#(struct:player 0 () #hash((0 . 0.05))) . 18)
+(#(struct:player 0 () #hash((0 . 0.16))) . 12)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+830
+(#(struct:player 0 () #hash((0 . 0.95))) . 43)
+(#(struct:player 0 () #hash((0 . 0.3))) . 26)
+(#(struct:player 0 () #hash((0 . 0.05))) . 14)
+(#(struct:player 0 () #hash((0 . 0.16))) . 12)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+829
+(#(struct:player 0 () #hash((0 . 0.95))) . 43)
+(#(struct:player 0 () #hash((0 . 0.3))) . 26)
+(#(struct:player 0 () #hash((0 . 0.05))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 12)
+(#(struct:player 0 () #hash((0 . 0.35))) . 7)
+828
+(#(struct:player 0 () #hash((0 . 0.95))) . 44)
+(#(struct:player 0 () #hash((0 . 0.3))) . 28)
+(#(struct:player 0 () #hash((0 . 0.16))) . 12)
+(#(struct:player 0 () #hash((0 . 0.05))) . 10)
+(#(struct:player 0 () #hash((0 . 0.35))) . 6)
+827
+(#(struct:player 0 () #hash((0 . 0.95))) . 41)
+(#(struct:player 0 () #hash((0 . 0.3))) . 31)
+(#(struct:player 0 () #hash((0 . 0.05))) . 11)
+(#(struct:player 0 () #hash((0 . 0.16))) . 11)
+(#(struct:player 0 () #hash((0 . 0.35))) . 6)
+826
+(#(struct:player 0 () #hash((0 . 0.95))) . 40)
+(#(struct:player 0 () #hash((0 . 0.3))) . 32)
+(#(struct:player 0 () #hash((0 . 0.16))) . 13)
+(#(struct:player 0 () #hash((0 . 0.05))) . 9)
+(#(struct:player 0 () #hash((0 . 0.35))) . 6)
+825
+(#(struct:player 0 () #hash((0 . 0.95))) . 41)
+(#(struct:player 0 () #hash((0 . 0.3))) . 28)
+(#(struct:player 0 () #hash((0 . 0.16))) . 16)
+(#(struct:player 0 () #hash((0 . 0.05))) . 10)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+824
+(#(struct:player 0 () #hash((0 . 0.95))) . 39)
+(#(struct:player 0 () #hash((0 . 0.3))) . 31)
+(#(struct:player 0 () #hash((0 . 0.16))) . 15)
+(#(struct:player 0 () #hash((0 . 0.05))) . 9)
+(#(struct:player 0 () #hash((0 . 0.35))) . 6)
+823
+(#(struct:player 0 () #hash((0 . 0.95))) . 42)
+(#(struct:player 0 () #hash((0 . 0.3))) . 28)
+(#(struct:player 0 () #hash((0 . 0.16))) . 13)
+(#(struct:player 0 () #hash((0 . 0.05))) . 10)
+(#(struct:player 0 () #hash((0 . 0.35))) . 7)
+822
+(#(struct:player 0 () #hash((0 . 0.95))) . 43)
+(#(struct:player 0 () #hash((0 . 0.3))) . 28)
+(#(struct:player 0 () #hash((0 . 0.16))) . 12)
+(#(struct:player 0 () #hash((0 . 0.05))) . 10)
+(#(struct:player 0 () #hash((0 . 0.35))) . 7)
+821
+(#(struct:player 0 () #hash((0 . 0.95))) . 43)
+(#(struct:player 0 () #hash((0 . 0.3))) . 30)
+(#(struct:player 0 () #hash((0 . 0.16))) . 11)
+(#(struct:player 0 () #hash((0 . 0.05))) . 9)
+(#(struct:player 0 () #hash((0 . 0.35))) . 7)
+820
+(#(struct:player 0 () #hash((0 . 0.95))) . 41)
+(#(struct:player 0 () #hash((0 . 0.3))) . 32)
+(#(struct:player 0 () #hash((0 . 0.16))) . 12)
+(#(struct:player 0 () #hash((0 . 0.05))) . 8)
+(#(struct:player 0 () #hash((0 . 0.35))) . 7)
+819
+(#(struct:player 0 () #hash((0 . 0.95))) . 39)
+(#(struct:player 0 () #hash((0 . 0.3))) . 35)
+(#(struct:player 0 () #hash((0 . 0.16))) . 13)
+(#(struct:player 0 () #hash((0 . 0.35))) . 7)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+818
+(#(struct:player 0 () #hash((0 . 0.95))) . 40)
+(#(struct:player 0 () #hash((0 . 0.3))) . 33)
+(#(struct:player 0 () #hash((0 . 0.16))) . 14)
+(#(struct:player 0 () #hash((0 . 0.35))) . 7)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+817
+(#(struct:player 0 () #hash((0 . 0.95))) . 38)
+(#(struct:player 0 () #hash((0 . 0.3))) . 32)
+(#(struct:player 0 () #hash((0 . 0.16))) . 16)
+(#(struct:player 0 () #hash((0 . 0.35))) . 9)
+(#(struct:player 0 () #hash((0 . 0.05))) . 5)
+816
+(#(struct:player 0 () #hash((0 . 0.95))) . 38)
+(#(struct:player 0 () #hash((0 . 0.3))) . 31)
+(#(struct:player 0 () #hash((0 . 0.16))) . 17)
+(#(struct:player 0 () #hash((0 . 0.35))) . 9)
+(#(struct:player 0 () #hash((0 . 0.05))) . 5)
+815
+(#(struct:player 0 () #hash((0 . 0.95))) . 39)
+(#(struct:player 0 () #hash((0 . 0.3))) . 26)
+(#(struct:player 0 () #hash((0 . 0.16))) . 17)
+(#(struct:player 0 () #hash((0 . 0.35))) . 12)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+814
+(#(struct:player 0 () #hash((0 . 0.95))) . 42)
+(#(struct:player 0 () #hash((0 . 0.3))) . 22)
+(#(struct:player 0 () #hash((0 . 0.16))) . 16)
+(#(struct:player 0 () #hash((0 . 0.35))) . 13)
+(#(struct:player 0 () #hash((0 . 0.05))) . 7)
+813
+(#(struct:player 0 () #hash((0 . 0.95))) . 44)
+(#(struct:player 0 () #hash((0 . 0.3))) . 20)
+(#(struct:player 0 () #hash((0 . 0.16))) . 16)
+(#(struct:player 0 () #hash((0 . 0.35))) . 14)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+812
+(#(struct:player 0 () #hash((0 . 0.95))) . 49)
+(#(struct:player 0 () #hash((0 . 0.3))) . 20)
+(#(struct:player 0 () #hash((0 . 0.35))) . 13)
+(#(struct:player 0 () #hash((0 . 0.16))) . 12)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+811
+(#(struct:player 0 () #hash((0 . 0.95))) . 52)
+(#(struct:player 0 () #hash((0 . 0.3))) . 20)
+(#(struct:player 0 () #hash((0 . 0.35))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 10)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+810
+(#(struct:player 0 () #hash((0 . 0.95))) . 53)
+(#(struct:player 0 () #hash((0 . 0.3))) . 21)
+(#(struct:player 0 () #hash((0 . 0.35))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+809
+(#(struct:player 0 () #hash((0 . 0.95))) . 57)
+(#(struct:player 0 () #hash((0 . 0.3))) . 17)
+(#(struct:player 0 () #hash((0 . 0.35))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+808
+(#(struct:player 0 () #hash((0 . 0.95))) . 55)
+(#(struct:player 0 () #hash((0 . 0.3))) . 16)
+(#(struct:player 0 () #hash((0 . 0.35))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 9)
+(#(struct:player 0 () #hash((0 . 0.05))) . 8)
+807
+(#(struct:player 0 () #hash((0 . 0.95))) . 56)
+(#(struct:player 0 () #hash((0 . 0.3))) . 17)
+(#(struct:player 0 () #hash((0 . 0.35))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 9)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+806
+(#(struct:player 0 () #hash((0 . 0.95))) . 57)
+(#(struct:player 0 () #hash((0 . 0.3))) . 18)
+(#(struct:player 0 () #hash((0 . 0.35))) . 11)
+(#(struct:player 0 () #hash((0 . 0.16))) . 9)
+(#(struct:player 0 () #hash((0 . 0.05))) . 5)
+805
+(#(struct:player 0 () #hash((0 . 0.95))) . 52)
+(#(struct:player 0 () #hash((0 . 0.3))) . 20)
+(#(struct:player 0 () #hash((0 . 0.35))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 10)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+804
+(#(struct:player 0 () #hash((0 . 0.95))) . 59)
+(#(struct:player 0 () #hash((0 . 0.3))) . 18)
+(#(struct:player 0 () #hash((0 . 0.35))) . 9)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.05))) . 6)
+803
+(#(struct:player 0 () #hash((0 . 0.95))) . 61)
+(#(struct:player 0 () #hash((0 . 0.3))) . 17)
+(#(struct:player 0 () #hash((0 . 0.16))) . 9)
+(#(struct:player 0 () #hash((0 . 0.05))) . 7)
+(#(struct:player 0 () #hash((0 . 0.35))) . 6)
+802
+(#(struct:player 0 () #hash((0 . 0.95))) . 61)
+(#(struct:player 0 () #hash((0 . 0.3))) . 19)
+(#(struct:player 0 () #hash((0 . 0.16))) . 9)
+(#(struct:player 0 () #hash((0 . 0.35))) . 6)
+(#(struct:player 0 () #hash((0 . 0.05))) . 5)
+801
+(#(struct:player 0 () #hash((0 . 0.95))) . 64)
+(#(struct:player 0 () #hash((0 . 0.3))) . 18)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.35))) . 6)
+(#(struct:player 0 () #hash((0 . 0.05))) . 4)
+800
+(#(struct:player 0 () #hash((0 . 0.95))) . 66)
+(#(struct:player 0 () #hash((0 . 0.3))) . 18)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+(#(struct:player 0 () #hash((0 . 0.05))) . 4)
+799
+(#(struct:player 0 () #hash((0 . 0.95))) . 70)
+(#(struct:player 0 () #hash((0 . 0.3))) . 14)
+(#(struct:player 0 () #hash((0 . 0.16))) . 7)
+(#(struct:player 0 () #hash((0 . 0.05))) . 5)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+798
+(#(struct:player 0 () #hash((0 . 0.95))) . 72)
+(#(struct:player 0 () #hash((0 . 0.3))) . 14)
+(#(struct:player 0 () #hash((0 . 0.16))) . 7)
+(#(struct:player 0 () #hash((0 . 0.05))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+797
+(#(struct:player 0 () #hash((0 . 0.95))) . 75)
+(#(struct:player 0 () #hash((0 . 0.3))) . 12)
+(#(struct:player 0 () #hash((0 . 0.16))) . 8)
+(#(struct:player 0 () #hash((0 . 0.05))) . 3)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+796
+(#(struct:player 0 () #hash((0 . 0.95))) . 79)
+(#(struct:player 0 () #hash((0 . 0.3))) . 9)
+(#(struct:player 0 () #hash((0 . 0.16))) . 7)
+(#(struct:player 0 () #hash((0 . 0.05))) . 3)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+795
+(#(struct:player 0 () #hash((0 . 0.95))) . 82)
+(#(struct:player 0 () #hash((0 . 0.3))) . 8)
+(#(struct:player 0 () #hash((0 . 0.16))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+(#(struct:player 0 () #hash((0 . 0.05))) . 2)
+794
+(#(struct:player 0 () #hash((0 . 0.95))) . 81)
+(#(struct:player 0 () #hash((0 . 0.3))) . 8)
+(#(struct:player 0 () #hash((0 . 0.16))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.05))) . 2)
+793
+(#(struct:player 0 () #hash((0 . 0.95))) . 82)
+(#(struct:player 0 () #hash((0 . 0.3))) . 9)
+(#(struct:player 0 () #hash((0 . 0.16))) . 5)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+(#(struct:player 0 () #hash((0 . 0.05))) . 2)
+792
+(#(struct:player 0 () #hash((0 . 0.95))) . 82)
+(#(struct:player 0 () #hash((0 . 0.3))) . 10)
+(#(struct:player 0 () #hash((0 . 0.16))) . 5)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+(#(struct:player 0 () #hash((0 . 0.05))) . 1)
+791
+(#(struct:player 0 () #hash((0 . 0.95))) . 83)
+(#(struct:player 0 () #hash((0 . 0.3))) . 8)
+(#(struct:player 0 () #hash((0 . 0.16))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+(#(struct:player 0 () #hash((0 . 0.05))) . 1)
+790
+(#(struct:player 0 () #hash((0 . 0.95))) . 86)
+(#(struct:player 0 () #hash((0 . 0.3))) . 7)
+(#(struct:player 0 () #hash((0 . 0.16))) . 4)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+(#(struct:player 0 () #hash((0 . 0.05))) . 1)
+789
+(#(struct:player 0 () #hash((0 . 0.95))) . 85)
+(#(struct:player 0 () #hash((0 . 0.3))) . 10)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+(#(struct:player 0 () #hash((0 . 0.16))) . 2)
+(#(struct:player 0 () #hash((0 . 0.05))) . 1)
+788
+(#(struct:player 0 () #hash((0 . 0.95))) . 89)
+(#(struct:player 0 () #hash((0 . 0.3))) . 7)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+(#(struct:player 0 () #hash((0 . 0.05))) . 1)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+787
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+(#(struct:player 0 () #hash((0 . 0.05))) . 1)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+786
+(#(struct:player 0 () #hash((0 . 0.95))) . 88)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+(#(struct:player 0 () #hash((0 . 0.05))) . 1)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+785
+(#(struct:player 0 () #hash((0 . 0.95))) . 91)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+784
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+783
+(#(struct:player 0 () #hash((0 . 0.95))) . 87)
+(#(struct:player 0 () #hash((0 . 0.3))) . 8)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+782
+(#(struct:player 0 () #hash((0 . 0.95))) . 85)
+(#(struct:player 0 () #hash((0 . 0.3))) . 9)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+(#(struct:player 0 () #hash((0 . 0.1))) . 1)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+781
+(#(struct:player 0 () #hash((0 . 0.95))) . 86)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+(#(struct:player 0 () #hash((0 . 0.1))) . 2)
+(#(struct:player 0 () #hash((0 . 0.16))) . 2)
+780
+(#(struct:player 0 () #hash((0 . 0.95))) . 87)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.1))) . 2)
+(#(struct:player 0 () #hash((0 . 0.16))) . 2)
+779
+(#(struct:player 0 () #hash((0 . 0.95))) . 87)
+(#(struct:player 0 () #hash((0 . 0.3))) . 7)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+(#(struct:player 0 () #hash((0 . 0.1))) . 2)
+(#(struct:player 0 () #hash((0 . 0.16))) . 2)
+778
+(#(struct:player 0 () #hash((0 . 0.95))) . 87)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.1))) . 3)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+(#(struct:player 0 () #hash((0 . 0.16))) . 2)
+777
+(#(struct:player 0 () #hash((0 . 0.95))) . 88)
+(#(struct:player 0 () #hash((0 . 0.3))) . 5)
+(#(struct:player 0 () #hash((0 . 0.35))) . 3)
+(#(struct:player 0 () #hash((0 . 0.1))) . 2)
+(#(struct:player 0 () #hash((0 . 0.16))) . 2)
+776
+(#(struct:player 0 () #hash((0 . 0.95))) . 87)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+(#(struct:player 0 () #hash((0 . 0.1))) . 2)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+775
+(#(struct:player 0 () #hash((0 . 0.95))) . 87)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+(#(struct:player 0 () #hash((0 . 0.1))) . 2)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+774
+(#(struct:player 0 () #hash((0 . 0.95))) . 87)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+(#(struct:player 0 () #hash((0 . 0.3))) . 5)
+(#(struct:player 0 () #hash((0 . 0.1))) . 2)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+773
+(#(struct:player 0 () #hash((0 . 0.95))) . 88)
+(#(struct:player 0 () #hash((0 . 0.35))) . 5)
+(#(struct:player 0 () #hash((0 . 0.3))) . 5)
+(#(struct:player 0 () #hash((0 . 0.1))) . 1)
+(#(struct:player 0 () #hash((0 . 0.16))) . 1)
+772
+(#(struct:player 0 () #hash((0 . 0.95))) . 88)
+(#(struct:player 0 () #hash((0 . 0.35))) . 6)
+(#(struct:player 0 () #hash((0 . 0.3))) . 5)
+(#(struct:player 0 () #hash((0 . 0.1))) . 1)
+771
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+770
+(#(struct:player 0 () #hash((0 . 0.95))) . 89)
+(#(struct:player 0 () #hash((0 . 0.3))) . 7)
+(#(struct:player 0 () #hash((0 . 0.35))) . 4)
+769
+(#(struct:player 0 () #hash((0 . 0.95))) . 88)
+(#(struct:player 0 () #hash((0 . 0.3))) . 10)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+768
+(#(struct:player 0 () #hash((0 . 0.95))) . 88)
+(#(struct:player 0 () #hash((0 . 0.3))) . 10)
+(#(struct:player 0 () #hash((0 . 0.35))) . 2)
+767
+(#(struct:player 0 () #hash((0 . 0.95))) . 88)
+(#(struct:player 0 () #hash((0 . 0.3))) . 11)
+(#(struct:player 0 () #hash((0 . 0.35))) . 1)
+766
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.3))) . 10)
+765
+(#(struct:player 0 () #hash((0 . 0.95))) . 89)
+(#(struct:player 0 () #hash((0 . 0.3))) . 11)
+764
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.3))) . 10)
+763
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.3))) . 7)
+762
+(#(struct:player 0 () #hash((0 . 0.95))) . 94)
+(#(struct:player 0 () #hash((0 . 0.3))) . 6)
+761
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.3))) . 7)
+760
+(#(struct:player 0 () #hash((0 . 0.95))) . 92)
+(#(struct:player 0 () #hash((0 . 0.3))) . 8)
+759
+(#(struct:player 0 () #hash((0 . 0.95))) . 95)
+(#(struct:player 0 () #hash((0 . 0.3))) . 5)
+758
+(#(struct:player 0 () #hash((0 . 0.95))) . 96)
+(#(struct:player 0 () #hash((0 . 0.3))) . 4)
+757
+(#(struct:player 0 () #hash((0 . 0.95))) . 95)
+(#(struct:player 0 () #hash((0 . 0.3))) . 5)
+756
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.3))) . 3)
+755
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.3))) . 3)
+754
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.3))) . 3)
+753
+(#(struct:player 0 () #hash((0 . 0.95))) . 95)
+(#(struct:player 0 () #hash((0 . 0.3))) . 5)
+752
+(#(struct:player 0 () #hash((0 . 0.95))) . 96)
+(#(struct:player 0 () #hash((0 . 0.3))) . 4)
+751
+(#(struct:player 0 () #hash((0 . 0.95))) . 96)
+(#(struct:player 0 () #hash((0 . 0.3))) . 4)
+750
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.3))) . 3)
+749
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.3))) . 3)
+748
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.3))) . 3)
+747
+(#(struct:player 0 () #hash((0 . 0.95))) . 98)
+(#(struct:player 0 () #hash((0 . 0.3))) . 2)
+746
+(#(struct:player 0 () #hash((0 . 0.95))) . 99)
+(#(struct:player 0 () #hash((0 . 0.3))) . 1)
+745
+(#(struct:player 0 () #hash((0 . 0.95))) . 99)
+(#(struct:player 0 () #hash((0 . 0.3))) . 1)
+744
+(#(struct:player 0 () #hash((0 . 0.95))) . 99)
+(#(struct:player 0 () #hash((0 . 0.3))) . 1)
+743
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+742
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+741
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+740
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+739
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+738
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+737
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+736
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+735
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+734
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+733
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+732
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+731
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+730
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+729
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+728
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+727
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+726
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+725
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+724
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+723
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+722
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+721
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+720
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+719
+(#(struct:player 0 () #hash((0 . 0.95))) . 99)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+718
+(#(struct:player 0 () #hash((0 . 0.95))) . 98)
+(#(struct:player 0 () #hash((0 . 0.9))) . 2)
+717
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.9))) . 3)
+716
+(#(struct:player 0 () #hash((0 . 0.95))) . 96)
+(#(struct:player 0 () #hash((0 . 0.9))) . 4)
+715
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.9))) . 3)
+714
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.9))) . 3)
+713
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.9))) . 3)
+712
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.9))) . 3)
+711
+(#(struct:player 0 () #hash((0 . 0.95))) . 96)
+(#(struct:player 0 () #hash((0 . 0.9))) . 4)
+710
+(#(struct:player 0 () #hash((0 . 0.95))) . 95)
+(#(struct:player 0 () #hash((0 . 0.9))) . 5)
+709
+(#(struct:player 0 () #hash((0 . 0.95))) . 96)
+(#(struct:player 0 () #hash((0 . 0.9))) . 4)
+708
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.9))) . 3)
+707
+(#(struct:player 0 () #hash((0 . 0.95))) . 96)
+(#(struct:player 0 () #hash((0 . 0.9))) . 4)
+706
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.9))) . 3)
+705
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.9))) . 3)
+704
+(#(struct:player 0 () #hash((0 . 0.95))) . 95)
+(#(struct:player 0 () #hash((0 . 0.9))) . 5)
+703
+(#(struct:player 0 () #hash((0 . 0.95))) . 95)
+(#(struct:player 0 () #hash((0 . 0.9))) . 5)
+702
+(#(struct:player 0 () #hash((0 . 0.95))) . 94)
+(#(struct:player 0 () #hash((0 . 0.9))) . 6)
+701
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.9))) . 7)
+700
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.9))) . 7)
+699
+(#(struct:player 0 () #hash((0 . 0.95))) . 89)
+(#(struct:player 0 () #hash((0 . 0.9))) . 11)
+698
+(#(struct:player 0 () #hash((0 . 0.95))) . 91)
+(#(struct:player 0 () #hash((0 . 0.9))) . 9)
+697
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.9))) . 10)
+696
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.9))) . 10)
+695
+(#(struct:player 0 () #hash((0 . 0.95))) . 89)
+(#(struct:player 0 () #hash((0 . 0.9))) . 11)
+694
+(#(struct:player 0 () #hash((0 . 0.95))) . 89)
+(#(struct:player 0 () #hash((0 . 0.9))) . 11)
+693
+(#(struct:player 0 () #hash((0 . 0.95))) . 88)
+(#(struct:player 0 () #hash((0 . 0.9))) . 12)
+692
+(#(struct:player 0 () #hash((0 . 0.95))) . 88)
+(#(struct:player 0 () #hash((0 . 0.9))) . 12)
+691
+(#(struct:player 0 () #hash((0 . 0.95))) . 87)
+(#(struct:player 0 () #hash((0 . 0.9))) . 13)
+690
+(#(struct:player 0 () #hash((0 . 0.95))) . 86)
+(#(struct:player 0 () #hash((0 . 0.9))) . 14)
+689
+(#(struct:player 0 () #hash((0 . 0.95))) . 83)
+(#(struct:player 0 () #hash((0 . 0.9))) . 17)
+688
+(#(struct:player 0 () #hash((0 . 0.95))) . 82)
+(#(struct:player 0 () #hash((0 . 0.9))) . 18)
+687
+(#(struct:player 0 () #hash((0 . 0.95))) . 84)
+(#(struct:player 0 () #hash((0 . 0.9))) . 16)
+686
+(#(struct:player 0 () #hash((0 . 0.95))) . 85)
+(#(struct:player 0 () #hash((0 . 0.9))) . 15)
+685
+(#(struct:player 0 () #hash((0 . 0.95))) . 84)
+(#(struct:player 0 () #hash((0 . 0.9))) . 16)
+684
+(#(struct:player 0 () #hash((0 . 0.95))) . 84)
+(#(struct:player 0 () #hash((0 . 0.9))) . 16)
+683
+(#(struct:player 0 () #hash((0 . 0.95))) . 86)
+(#(struct:player 0 () #hash((0 . 0.9))) . 14)
+682
+(#(struct:player 0 () #hash((0 . 0.95))) . 85)
+(#(struct:player 0 () #hash((0 . 0.9))) . 15)
+681
+(#(struct:player 0 () #hash((0 . 0.95))) . 84)
+(#(struct:player 0 () #hash((0 . 0.9))) . 16)
+680
+(#(struct:player 0 () #hash((0 . 0.95))) . 86)
+(#(struct:player 0 () #hash((0 . 0.9))) . 14)
+679
+(#(struct:player 0 () #hash((0 . 0.95))) . 85)
+(#(struct:player 0 () #hash((0 . 0.9))) . 15)
+678
+(#(struct:player 0 () #hash((0 . 0.95))) . 84)
+(#(struct:player 0 () #hash((0 . 0.9))) . 16)
+677
+(#(struct:player 0 () #hash((0 . 0.95))) . 86)
+(#(struct:player 0 () #hash((0 . 0.9))) . 14)
+676
+(#(struct:player 0 () #hash((0 . 0.95))) . 86)
+(#(struct:player 0 () #hash((0 . 0.9))) . 14)
+675
+(#(struct:player 0 () #hash((0 . 0.95))) . 84)
+(#(struct:player 0 () #hash((0 . 0.9))) . 16)
+674
+(#(struct:player 0 () #hash((0 . 0.95))) . 84)
+(#(struct:player 0 () #hash((0 . 0.9))) . 16)
+673
+(#(struct:player 0 () #hash((0 . 0.95))) . 84)
+(#(struct:player 0 () #hash((0 . 0.9))) . 16)
+672
+(#(struct:player 0 () #hash((0 . 0.95))) . 85)
+(#(struct:player 0 () #hash((0 . 0.9))) . 15)
+671
+(#(struct:player 0 () #hash((0 . 0.95))) . 85)
+(#(struct:player 0 () #hash((0 . 0.9))) . 15)
+670
+(#(struct:player 0 () #hash((0 . 0.95))) . 83)
+(#(struct:player 0 () #hash((0 . 0.9))) . 17)
+669
+(#(struct:player 0 () #hash((0 . 0.95))) . 82)
+(#(struct:player 0 () #hash((0 . 0.9))) . 18)
+668
+(#(struct:player 0 () #hash((0 . 0.95))) . 82)
+(#(struct:player 0 () #hash((0 . 0.9))) . 18)
+667
+(#(struct:player 0 () #hash((0 . 0.95))) . 84)
+(#(struct:player 0 () #hash((0 . 0.9))) . 16)
+666
+(#(struct:player 0 () #hash((0 . 0.95))) . 85)
+(#(struct:player 0 () #hash((0 . 0.9))) . 15)
+665
+(#(struct:player 0 () #hash((0 . 0.95))) . 84)
+(#(struct:player 0 () #hash((0 . 0.9))) . 16)
+664
+(#(struct:player 0 () #hash((0 . 0.95))) . 86)
+(#(struct:player 0 () #hash((0 . 0.9))) . 14)
+663
+(#(struct:player 0 () #hash((0 . 0.95))) . 85)
+(#(struct:player 0 () #hash((0 . 0.9))) . 15)
+662
+(#(struct:player 0 () #hash((0 . 0.95))) . 87)
+(#(struct:player 0 () #hash((0 . 0.9))) . 13)
+661
+(#(struct:player 0 () #hash((0 . 0.95))) . 86)
+(#(struct:player 0 () #hash((0 . 0.9))) . 14)
+660
+(#(struct:player 0 () #hash((0 . 0.95))) . 87)
+(#(struct:player 0 () #hash((0 . 0.9))) . 13)
+659
+(#(struct:player 0 () #hash((0 . 0.95))) . 88)
+(#(struct:player 0 () #hash((0 . 0.9))) . 12)
+658
+(#(struct:player 0 () #hash((0 . 0.95))) . 88)
+(#(struct:player 0 () #hash((0 . 0.9))) . 12)
+657
+(#(struct:player 0 () #hash((0 . 0.95))) . 89)
+(#(struct:player 0 () #hash((0 . 0.9))) . 11)
+656
+(#(struct:player 0 () #hash((0 . 0.95))) . 92)
+(#(struct:player 0 () #hash((0 . 0.9))) . 8)
+655
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.9))) . 10)
+654
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.9))) . 10)
+653
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.9))) . 10)
+652
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.9))) . 10)
+651
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.9))) . 10)
+650
+(#(struct:player 0 () #hash((0 . 0.95))) . 91)
+(#(struct:player 0 () #hash((0 . 0.9))) . 9)
+649
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.9))) . 10)
+648
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.9))) . 7)
+647
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.9))) . 7)
+646
+(#(struct:player 0 () #hash((0 . 0.95))) . 94)
+(#(struct:player 0 () #hash((0 . 0.9))) . 6)
+645
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.9))) . 7)
+644
+(#(struct:player 0 () #hash((0 . 0.95))) . 94)
+(#(struct:player 0 () #hash((0 . 0.9))) . 6)
+643
+(#(struct:player 0 () #hash((0 . 0.95))) . 94)
+(#(struct:player 0 () #hash((0 . 0.9))) . 6)
+642
+(#(struct:player 0 () #hash((0 . 0.95))) . 95)
+(#(struct:player 0 () #hash((0 . 0.9))) . 5)
+641
+(#(struct:player 0 () #hash((0 . 0.95))) . 95)
+(#(struct:player 0 () #hash((0 . 0.9))) . 5)
+640
+(#(struct:player 0 () #hash((0 . 0.95))) . 96)
+(#(struct:player 0 () #hash((0 . 0.9))) . 4)
+639
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.9))) . 3)
+638
+(#(struct:player 0 () #hash((0 . 0.95))) . 95)
+(#(struct:player 0 () #hash((0 . 0.9))) . 5)
+637
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.9))) . 3)
+636
+(#(struct:player 0 () #hash((0 . 0.95))) . 96)
+(#(struct:player 0 () #hash((0 . 0.9))) . 4)
+635
+(#(struct:player 0 () #hash((0 . 0.95))) . 95)
+(#(struct:player 0 () #hash((0 . 0.9))) . 5)
+634
+(#(struct:player 0 () #hash((0 . 0.95))) . 96)
+(#(struct:player 0 () #hash((0 . 0.9))) . 4)
+633
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.9))) . 7)
+632
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.9))) . 7)
+631
+(#(struct:player 0 () #hash((0 . 0.95))) . 91)
+(#(struct:player 0 () #hash((0 . 0.9))) . 9)
+630
+(#(struct:player 0 () #hash((0 . 0.95))) . 91)
+(#(struct:player 0 () #hash((0 . 0.9))) . 9)
+629
+(#(struct:player 0 () #hash((0 . 0.95))) . 91)
+(#(struct:player 0 () #hash((0 . 0.9))) . 9)
+628
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.9))) . 10)
+627
+(#(struct:player 0 () #hash((0 . 0.95))) . 89)
+(#(struct:player 0 () #hash((0 . 0.9))) . 11)
+626
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.9))) . 10)
+625
+(#(struct:player 0 () #hash((0 . 0.95))) . 92)
+(#(struct:player 0 () #hash((0 . 0.9))) . 8)
+624
+(#(struct:player 0 () #hash((0 . 0.95))) . 94)
+(#(struct:player 0 () #hash((0 . 0.9))) . 6)
+623
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.9))) . 7)
+622
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.9))) . 7)
+621
+(#(struct:player 0 () #hash((0 . 0.95))) . 92)
+(#(struct:player 0 () #hash((0 . 0.9))) . 8)
+620
+(#(struct:player 0 () #hash((0 . 0.95))) . 89)
+(#(struct:player 0 () #hash((0 . 0.9))) . 11)
+619
+(#(struct:player 0 () #hash((0 . 0.95))) . 89)
+(#(struct:player 0 () #hash((0 . 0.9))) . 11)
+618
+(#(struct:player 0 () #hash((0 . 0.95))) . 89)
+(#(struct:player 0 () #hash((0 . 0.9))) . 11)
+617
+(#(struct:player 0 () #hash((0 . 0.95))) . 91)
+(#(struct:player 0 () #hash((0 . 0.9))) . 9)
+616
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.9))) . 7)
+615
+(#(struct:player 0 () #hash((0 . 0.95))) . 91)
+(#(struct:player 0 () #hash((0 . 0.9))) . 9)
+614
+(#(struct:player 0 () #hash((0 . 0.95))) . 91)
+(#(struct:player 0 () #hash((0 . 0.9))) . 9)
+613
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.9))) . 7)
+612
+(#(struct:player 0 () #hash((0 . 0.95))) . 91)
+(#(struct:player 0 () #hash((0 . 0.9))) . 9)
+611
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.9))) . 10)
+610
+(#(struct:player 0 () #hash((0 . 0.95))) . 92)
+(#(struct:player 0 () #hash((0 . 0.9))) . 8)
+609
+(#(struct:player 0 () #hash((0 . 0.95))) . 91)
+(#(struct:player 0 () #hash((0 . 0.9))) . 9)
+608
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.9))) . 10)
+607
+(#(struct:player 0 () #hash((0 . 0.95))) . 88)
+(#(struct:player 0 () #hash((0 . 0.9))) . 12)
+606
+(#(struct:player 0 () #hash((0 . 0.95))) . 87)
+(#(struct:player 0 () #hash((0 . 0.9))) . 13)
+605
+(#(struct:player 0 () #hash((0 . 0.95))) . 86)
+(#(struct:player 0 () #hash((0 . 0.9))) . 14)
+604
+(#(struct:player 0 () #hash((0 . 0.95))) . 85)
+(#(struct:player 0 () #hash((0 . 0.9))) . 15)
+603
+(#(struct:player 0 () #hash((0 . 0.95))) . 87)
+(#(struct:player 0 () #hash((0 . 0.9))) . 13)
+602
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.9))) . 10)
+601
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.9))) . 7)
+600
+(#(struct:player 0 () #hash((0 . 0.95))) . 94)
+(#(struct:player 0 () #hash((0 . 0.9))) . 6)
+599
+(#(struct:player 0 () #hash((0 . 0.95))) . 95)
+(#(struct:player 0 () #hash((0 . 0.9))) . 5)
+598
+(#(struct:player 0 () #hash((0 . 0.95))) . 95)
+(#(struct:player 0 () #hash((0 . 0.9))) . 5)
+597
+(#(struct:player 0 () #hash((0 . 0.95))) . 96)
+(#(struct:player 0 () #hash((0 . 0.9))) . 4)
+596
+(#(struct:player 0 () #hash((0 . 0.95))) . 96)
+(#(struct:player 0 () #hash((0 . 0.9))) . 4)
+595
+(#(struct:player 0 () #hash((0 . 0.95))) . 94)
+(#(struct:player 0 () #hash((0 . 0.9))) . 6)
+594
+(#(struct:player 0 () #hash((0 . 0.95))) . 95)
+(#(struct:player 0 () #hash((0 . 0.9))) . 5)
+593
+(#(struct:player 0 () #hash((0 . 0.95))) . 95)
+(#(struct:player 0 () #hash((0 . 0.9))) . 5)
+592
+(#(struct:player 0 () #hash((0 . 0.95))) . 94)
+(#(struct:player 0 () #hash((0 . 0.9))) . 6)
+591
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.9))) . 7)
+590
+(#(struct:player 0 () #hash((0 . 0.95))) . 92)
+(#(struct:player 0 () #hash((0 . 0.9))) . 8)
+589
+(#(struct:player 0 () #hash((0 . 0.95))) . 91)
+(#(struct:player 0 () #hash((0 . 0.9))) . 9)
+588
+(#(struct:player 0 () #hash((0 . 0.95))) . 91)
+(#(struct:player 0 () #hash((0 . 0.9))) . 9)
+587
+(#(struct:player 0 () #hash((0 . 0.95))) . 89)
+(#(struct:player 0 () #hash((0 . 0.9))) . 11)
+586
+(#(struct:player 0 () #hash((0 . 0.95))) . 89)
+(#(struct:player 0 () #hash((0 . 0.9))) . 11)
+585
+(#(struct:player 0 () #hash((0 . 0.95))) . 88)
+(#(struct:player 0 () #hash((0 . 0.9))) . 12)
+584
+(#(struct:player 0 () #hash((0 . 0.95))) . 88)
+(#(struct:player 0 () #hash((0 . 0.9))) . 12)
+583
+(#(struct:player 0 () #hash((0 . 0.95))) . 89)
+(#(struct:player 0 () #hash((0 . 0.9))) . 11)
+582
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.9))) . 10)
+581
+(#(struct:player 0 () #hash((0 . 0.95))) . 89)
+(#(struct:player 0 () #hash((0 . 0.9))) . 11)
+580
+(#(struct:player 0 () #hash((0 . 0.95))) . 91)
+(#(struct:player 0 () #hash((0 . 0.9))) . 9)
+579
+(#(struct:player 0 () #hash((0 . 0.95))) . 91)
+(#(struct:player 0 () #hash((0 . 0.9))) . 9)
+578
+(#(struct:player 0 () #hash((0 . 0.95))) . 92)
+(#(struct:player 0 () #hash((0 . 0.9))) . 8)
+577
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.9))) . 7)
+576
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.9))) . 7)
+575
+(#(struct:player 0 () #hash((0 . 0.95))) . 92)
+(#(struct:player 0 () #hash((0 . 0.9))) . 8)
+574
+(#(struct:player 0 () #hash((0 . 0.95))) . 92)
+(#(struct:player 0 () #hash((0 . 0.9))) . 7)
+(#(struct:player 0 () #hash((0 . 0.97))) . 1)
+573
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.9))) . 6)
+(#(struct:player 0 () #hash((0 . 0.97))) . 1)
+572
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.9))) . 5)
+(#(struct:player 0 () #hash((0 . 0.97))) . 2)
+571
+(#(struct:player 0 () #hash((0 . 0.95))) . 91)
+(#(struct:player 0 () #hash((0 . 0.9))) . 6)
+(#(struct:player 0 () #hash((0 . 0.97))) . 3)
+570
+(#(struct:player 0 () #hash((0 . 0.95))) . 92)
+(#(struct:player 0 () #hash((0 . 0.9))) . 5)
+(#(struct:player 0 () #hash((0 . 0.97))) . 3)
+569
+(#(struct:player 0 () #hash((0 . 0.95))) . 91)
+(#(struct:player 0 () #hash((0 . 0.9))) . 5)
+(#(struct:player 0 () #hash((0 . 0.97))) . 4)
+568
+(#(struct:player 0 () #hash((0 . 0.95))) . 90)
+(#(struct:player 0 () #hash((0 . 0.9))) . 6)
+(#(struct:player 0 () #hash((0 . 0.97))) . 4)
+567
+(#(struct:player 0 () #hash((0 . 0.95))) . 91)
+(#(struct:player 0 () #hash((0 . 0.9))) . 5)
+(#(struct:player 0 () #hash((0 . 0.97))) . 4)
+566
+(#(struct:player 0 () #hash((0 . 0.95))) . 92)
+(#(struct:player 0 () #hash((0 . 0.97))) . 4)
+(#(struct:player 0 () #hash((0 . 0.9))) . 4)
+565
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.9))) . 4)
+(#(struct:player 0 () #hash((0 . 0.97))) . 3)
+564
+(#(struct:player 0 () #hash((0 . 0.95))) . 92)
+(#(struct:player 0 () #hash((0 . 0.9))) . 5)
+(#(struct:player 0 () #hash((0 . 0.97))) . 3)
+563
+(#(struct:player 0 () #hash((0 . 0.95))) . 93)
+(#(struct:player 0 () #hash((0 . 0.9))) . 4)
+(#(struct:player 0 () #hash((0 . 0.97))) . 3)
+562
+(#(struct:player 0 () #hash((0 . 0.95))) . 94)
+(#(struct:player 0 () #hash((0 . 0.97))) . 3)
+(#(struct:player 0 () #hash((0 . 0.9))) . 3)
+561
+(#(struct:player 0 () #hash((0 . 0.95))) . 95)
+(#(struct:player 0 () #hash((0 . 0.9))) . 3)
+(#(struct:player 0 () #hash((0 . 0.97))) . 2)
+560
+(#(struct:player 0 () #hash((0 . 0.95))) . 95)
+(#(struct:player 0 () #hash((0 . 0.9))) . 3)
+(#(struct:player 0 () #hash((0 . 0.97))) . 2)
+559
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.9))) . 2)
+(#(struct:player 0 () #hash((0 . 0.97))) . 1)
+558
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.9))) . 2)
+(#(struct:player 0 () #hash((0 . 0.97))) . 1)
+557
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.9))) . 2)
+(#(struct:player 0 () #hash((0 . 0.97))) . 1)
+556
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.9))) . 2)
+(#(struct:player 0 () #hash((0 . 0.97))) . 1)
+555
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.9))) . 2)
+(#(struct:player 0 () #hash((0 . 0.97))) . 1)
+554
+(#(struct:player 0 () #hash((0 . 0.95))) . 96)
+(#(struct:player 0 () #hash((0 . 0.9))) . 3)
+(#(struct:player 0 () #hash((0 . 0.97))) . 1)
+553
+(#(struct:player 0 () #hash((0 . 0.95))) . 96)
+(#(struct:player 0 () #hash((0 . 0.9))) . 3)
+(#(struct:player 0 () #hash((0 . 0.97))) . 1)
+552
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.9))) . 2)
+(#(struct:player 0 () #hash((0 . 0.97))) . 1)
+551
+(#(struct:player 0 () #hash((0 . 0.95))) . 97)
+(#(struct:player 0 () #hash((0 . 0.9))) . 2)
+(#(struct:player 0 () #hash((0 . 0.97))) . 1)
+550
+(#(struct:player 0 () #hash((0 . 0.95))) . 98)
+(#(struct:player 0 () #hash((0 . 0.97))) . 1)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+549
+(#(struct:player 0 () #hash((0 . 0.95))) . 98)
+(#(struct:player 0 () #hash((0 . 0.97))) . 1)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+548
+(#(struct:player 0 () #hash((0 . 0.95))) . 98)
+(#(struct:player 0 () #hash((0 . 0.97))) . 1)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+547
+(#(struct:player 0 () #hash((0 . 0.95))) . 98)
+(#(struct:player 0 () #hash((0 . 0.97))) . 1)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+546
+(#(struct:player 0 () #hash((0 . 0.95))) . 98)
+(#(struct:player 0 () #hash((0 . 0.97))) . 1)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+545
+(#(struct:player 0 () #hash((0 . 0.95))) . 98)
+(#(struct:player 0 () #hash((0 . 0.97))) . 1)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+544
+(#(struct:player 0 () #hash((0 . 0.95))) . 99)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+543
+(#(struct:player 0 () #hash((0 . 0.95))) . 99)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+542
+(#(struct:player 0 () #hash((0 . 0.95))) . 99)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+541
+(#(struct:player 0 () #hash((0 . 0.95))) . 99)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+540
+(#(struct:player 0 () #hash((0 . 0.95))) . 99)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+539
+(#(struct:player 0 () #hash((0 . 0.95))) . 99)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+538
+(#(struct:player 0 () #hash((0 . 0.95))) . 99)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+537
+(#(struct:player 0 () #hash((0 . 0.95))) . 99)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+536
+(#(struct:player 0 () #hash((0 . 0.95))) . 99)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+535
+(#(struct:player 0 () #hash((0 . 0.95))) . 99)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+534
+(#(struct:player 0 () #hash((0 . 0.95))) . 99)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+533
+(#(struct:player 0 () #hash((0 . 0.95))) . 99)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+532
+(#(struct:player 0 () #hash((0 . 0.95))) . 99)
+(#(struct:player 0 () #hash((0 . 0.9))) . 1)
+531
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+530
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+529
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+528
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+527
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+526
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+525
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+524
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+523
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+522
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+521
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+520
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+519
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+518
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+517
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+516
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+515
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+514
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+513
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+512
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+511
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+510
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+509
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+508
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+507
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+506
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+505
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+504
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+503
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+502
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+501
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+500
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+499
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+498
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+497
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+496
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+495
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+494
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+493
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+492
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+491
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+490
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+489
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+488
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+487
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+486
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+485
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+484
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+483
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+482
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+481
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+480
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+479
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+478
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+477
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+476
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+475
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+474
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+473
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+472
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+471
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+470
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+469
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+468
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+467
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+466
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+465
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+464
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+463
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+462
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+461
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+460
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+459
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+458
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+457
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+456
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+455
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+454
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+453
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+452
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+451
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+450
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+449
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+448
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+447
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+446
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+445
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+444
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+443
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+442
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+441
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+440
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+439
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+438
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+437
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+436
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+435
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+434
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+433
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+432
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+431
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+430
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+429
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+428
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+427
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+426
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+425
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+424
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+423
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+422
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+421
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+420
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+419
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+418
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+417
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+416
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+415
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+414
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+413
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+412
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+411
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+410
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+409
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+408
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+407
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+406
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+405
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+404
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+403
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+402
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+401
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+400
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+399
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+398
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+397
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+396
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+395
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+394
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+393
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+392
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+391
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+390
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+389
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+388
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+387
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+386
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+385
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+384
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+383
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+382
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+381
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+380
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+379
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+378
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+377
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+376
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+375
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+374
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+373
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+372
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+371
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+370
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+369
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+368
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+367
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+366
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+365
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+364
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+363
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+362
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+361
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+360
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+359
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+358
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+357
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+356
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+355
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+354
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+353
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+352
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+351
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+350
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+349
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+348
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+347
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+346
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+345
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+344
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+343
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+342
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+341
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+340
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+339
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+338
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+337
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+336
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+335
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+334
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+333
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+332
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+331
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+330
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+329
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+328
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+327
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+326
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+325
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+324
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+323
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+322
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+321
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+320
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+319
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+318
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+317
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+316
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+315
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+314
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+313
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+312
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+311
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+310
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+309
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+308
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+307
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+306
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+305
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+304
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+303
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+302
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+301
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+300
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+299
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+298
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+297
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+296
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+295
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+294
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+293
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+292
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+291
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+290
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+289
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+288
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+287
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+286
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+285
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+284
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+283
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+282
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+281
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+280
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+279
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+278
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+277
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+276
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+275
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+274
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+273
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+272
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+271
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+270
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+269
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+268
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+267
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+266
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+265
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+264
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+263
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+262
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+261
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+260
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+259
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+258
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+257
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+256
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+255
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+254
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+253
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+252
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+251
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+250
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+249
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+248
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+247
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+246
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+245
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+244
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+243
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+242
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+241
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+240
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+239
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+238
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+237
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+236
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+235
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+234
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+233
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+232
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+231
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+230
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+229
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+228
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+227
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+226
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+225
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+224
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+223
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+222
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+221
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+220
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+219
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+218
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+217
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+216
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+215
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+214
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+213
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+212
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+211
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+210
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+209
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+208
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+207
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+206
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+205
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+204
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+203
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+202
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+201
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+200
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+199
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+198
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+197
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+196
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+195
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+194
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+193
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+192
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+191
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+190
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+189
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+188
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+187
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+186
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+185
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+184
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+183
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+182
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+181
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+180
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+179
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+178
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+177
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+176
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+175
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+174
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+173
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+172
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+171
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+170
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+169
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+168
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+167
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+166
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+165
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+164
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+163
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+162
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+161
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+160
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+159
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+158
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+157
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+156
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+155
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+154
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+153
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+152
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+151
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+150
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+149
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+148
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+147
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+146
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+145
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+144
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+143
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+142
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+141
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+140
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+139
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+138
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+137
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+136
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+135
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+134
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+133
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+132
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+131
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+130
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+129
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+128
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+127
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+126
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+125
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+124
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+123
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+122
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+121
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+120
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+119
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+118
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+117
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+116
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+115
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+114
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+113
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+112
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+111
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+110
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+109
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+108
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+107
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+106
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+105
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+104
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+103
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+102
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+101
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+100
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+99
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+98
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+97
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+96
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+95
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+94
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+93
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+92
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+91
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+90
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+89
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+88
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+87
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+86
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+85
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+84
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+83
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+82
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+81
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+80
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+79
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+78
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+77
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+76
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+75
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+74
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+73
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+72
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+71
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+70
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+69
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+68
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+67
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+66
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+65
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+64
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+63
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+62
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+61
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+60
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+59
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+58
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+57
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+56
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+55
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+54
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+53
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+52
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+51
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+50
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+49
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+48
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+47
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+46
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+45
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+44
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+43
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+42
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+41
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+40
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+39
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+38
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+37
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+36
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+35
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+34
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+33
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+32
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+31
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+30
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+29
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+28
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+27
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+26
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+25
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+24
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+23
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+22
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+21
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+20
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+19
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+18
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+17
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+16
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+15
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+14
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+13
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+12
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+11
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+10
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+9
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+8
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+7
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+6
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+5
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+4
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+3
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+2
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
+1
+(#(struct:player 0 () #hash((0 . 0.95))) . 100)
